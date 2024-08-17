@@ -23,23 +23,12 @@ abstract: Planung und Einführung einer Wissens- und Informationsdatenbank (Wiki
 Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8660361">rui line</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8660361">Pixabay</a>
 
 
-# Motivation
+# Ausgangslage
 
-## Ausgangslage
-### Unser Team 
-- 15 Personen
+## Unser Team 
+- 15 ehrenamtliche Personen
 - 1-2 Personen pro Dienst (meist die selben)
-- ausschl. ehrenamtlich (inkl. Leitung)
-
-![Altersverteilung](figures/age_distribution.png)
-
----
-
-### Kommunikation & Austausch
-- 💬 WhatsApp-Gruppe
-- ✉️ E-Mail (Protokolle, interessante Veranstaltungen)
-- 🗒️ Post-Its und Zettelwerk 
-- 👥 Teamsitzungen (ca. 1x im Quartal)
+- Verantwortung stark verteilt
 
 🗃️
 
@@ -47,6 +36,19 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 
 - gedruckt in Ordner abgelegt
 - am PC verfügbar (Word Dokumente)
+
+<!-- ![Altersverteilung](figures/age_distribution.png)-->
+
+---
+
+## Kommunikation & Austausch
+- 🗒️ Post-Its und Zettelwerk 
+- 💬 WhatsApp-Gruppe
+- ✉️ E-Mail
+  - Protokolle
+  - interessante Veranstaltungen
+- 👥 Teamsitzungen 
+  - ca. 1x im Quartal
 
 ::: notes
 - Relativ großes Team (15 Personen)
@@ -58,11 +60,12 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 ## Probleme
 
 - ungleicher Wissensstand
+  - schwer, alle Mitglieder zu erreichen
 - Protokolle schwer zu durchsuchen
-- schwer, alle Mitglieder zu erreichen
-- Zettelwerk nur vor Ort zugänglich
-- Informationen nicht nachvollziehbar 
-  - von wem, seit wann?
+- Zettelwerk:
+  - nur vor Ort zugänglich
+  - Informationen nicht nachvollziehbar 
+    - von wem, seit wann?
 
 ::: notes
 - wenig Zeit
@@ -74,8 +77,11 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 
 :::
 
-## Ich hab's! {background-image="figures/wickie-stars.gif"}
-### Ein Wi(c)ki(e) für die Bücherei Nofels
+# Ich hab's! {background-image="figures/wickie-stars.gif"}
+
+::: {.fragment}
+Ein Wi(c)ki(e) für die Bücherei Nofels
+:::
 
 ---
 
@@ -97,7 +103,7 @@ Beispiele
 - gemeinschaftliches Arbeiten (Kollaboration)
   - _Author_ 👤 und _Zeitpunkt_ ⏲ ersichtlich
 
-![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence): beliebtes ](figures/confluence-review.png){width=40%}
+![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence)](figures/confluence-review.png){width=40%}
 
 ::: notes
 
@@ -184,7 +190,7 @@ TODO: opacity / background - Confluence?
 
 [^2]: _What You See Is What You Get_
 :
-Aussehen entspricht dem Ergebnis
+Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
 
 ## Entscheidung für ein Wiki {auto-animate=true}
 - 82 Wikis zur Auswahl bei [WikiMatrix](https://www.wikimatrix.org/)
@@ -234,15 +240,10 @@ Aussehen entspricht dem Ergebnis
 1. Hosting beantragen bzw. installieren
     - monatl. Kosten: ca. 5 EUR/Monat
 2. Benutzer importieren
-    - für jeden Benutzer einen
+    - jedes Teammitglied hat eigenen Benutzer
 3. Inhalte importieren
 4. Rechte verwalten
     - wer darf was?
-
-## Willkommensseite {background-image="figures/bookstack_willkommen.png" background-size=auto}
-## Regale {background-image="figures/bookstack_regale.png" background-size=auto}
-## Bücher {background-image="figures/bookstack_books.png" background-size=auto}
-## Jahresübersicht {background-image="figures/bookstack_2024.png" background-size=auto}
 
 ## Nachbereitung
 
@@ -257,22 +258,75 @@ Aussehen entspricht dem Ergebnis
 
 [^1]: link to wiki comparison site
 
-# Ergebnisse
+# Ergebnisse {background-image="figures/bookstack_willkommen.png" background-opacity=0.2 }
 
-## Resultate
-- 👓: Anleitungen leichter auffindbarer gemacht
-    - gesteigerte Wertschätzung
-- Offene Arbeiten (z.B. veraltete Dokumente) identifiziert
-- ✍️: Schulungen; einfacher WYSIWYG Handhabung
-- 🫰: Nutzen übersteigt Kosten
-- Evaluierung ausständig (2025)
+## Willkommensseite {background-image="figures/bookstack_willkommen.png" background-size=auto}
+## Regale {background-image="figures/bookstack_regale.png" background-size=auto}
+## Bücher {background-image="figures/bookstack_books.png" background-size=auto}
+## Jahresübersicht {background-image="figures/bookstack_2024.png" background-size=auto}
 
-## Learnings
-- technischer Hintergrund ist hilfreich, aber nicht zwingend notwendig
-- kostengünstige Möglichkeiten evtl. bereits verfügbar
-- Benutzerfreundlichkeit sehr wichtig
-    - so einfach wie möglich halten
-    - nicht auf perfekte Lösung warten
+## Beantwortung der Leitfragen {auto-animate=true}
+
+---  
+
+## Beantwortung der Leitfragen {auto-animate=true}
+
+### 👓 Lesen
+- zentrale Ablage z.B. für Protokolle, Anleitungen und 
+- Information durch Volltextsuche leicht auffindbar
+- gesteigerte Wertschätzung existierender Dokumente
+- offene Arbeiten identifiziert
+
+---
+
+## Beantwortung der Leitfragen {auto-animate=true}
+
+### ✍️ __Bearbeiten__
+  - einfache Eingabe
+  - Schulungen essentiell
+  - Historie: alte Versionen wieder herstellbar
+    - Angst vor Fehlern nehmen
+
+---
+
+## Beantwortung der Leitfragen {auto-animate=true}
+
+### 🫰 __Nutzen__
+  - Derzeit: Kosten übersteigt Nutzen
+    - Struktur & zentraler Ort sehr hilfreich
+  - Evaluierung ausständig (06/2025)
+  - Alternative Möglichkeiten:
+    - neue Bibliothekssoftware
+    - Online Office Suite
+
+
+## Das habe ich gelernt
+- Es gibt keine perfekten Lösungen!
+- Team ins Boot holen:
+  - Nutzen muss erklärt und beworben werden
+  - Inhalte & Anforderungen kommen vom Team
+  
+- Langzeit-Projekt:
+  - Längere Verwendung für Evaluierung notwendig
 
 ## Fazit
 Wichtig ist, sich über die vorhandene und fehlende Dokumentation Gedanken zu machen und mit dem Team gemeinsam an einem möglichst aktuellen Wissensstand zu arbeiten.
+
+# Vielen Dank! {background-image="figures/thats-all.gif" background-opacity=0.5}
+
+## Tipps {visibility=uncounted}
+- technischer Hintergrund ist hilfreich, aber nicht zwingend notwendig
+- kostengünstige Möglichkeiten evtl. bereits verfügbar
+    - [Microsoft 365](https://www.office.com/) bzw. [Google Docs](https://docs.google.com)
+- Self-Hosted vs. Hosted:
+  - evtl. kann Wiki mit Website verbunden werden
+  - Self-Hosted nur bei hoher technischer Kompetenz
+
+## Vergleich zw. DokuWiki & BookStack
+
+## Content-Ideen {background-color=white visibility=uncounted}
+
+![Ideen für Wiki-Inhalte](figures/mindmap_content.png)
+
+---
+
