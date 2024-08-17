@@ -12,13 +12,13 @@ subject: Wiki
 description: Projektbericht im Rahmen der Ausbildung für ehrenamtliche und nebenberufliche Bibliothekarinnen und Bibliothekare
 category: Projektbericht
 abstract: Planung und Einführung einer Wissens- und Informationsdatenbank (Wiki) für Mitarbeiter:innen der Bücherei Nofels. Es werden die Anforderungen an diese Software geklärt und die technische Umsetzung beschrieben.
-#background-image: ../figures/chuttersnap-AG2Ct_DqCh0-unsplash.jpg
+#background-image: figures/chuttersnap-AG2Ct_DqCh0-unsplash.jpg
 #parallaxBackgroundSize: 6016px 4016px
 ---
 
 # Bilder {data-visibility=hidden}
 
-![Colourful Books](../figures/books-8660361.svg)
+![Colourful Books](figures/books-8660361.svg)
 
 Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8660361">rui line</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8660361">Pixabay</a>
 
@@ -31,7 +31,7 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 - 1-2 Personen pro Dienst (meist die selben)
 - ausschl. ehrenamtlich (inkl. Leitung)
 
-![Altersverteilung](../figures/age_distribution.png)
+![Altersverteilung](figures/age_distribution.png)
 
 ---
 
@@ -74,12 +74,12 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 
 :::
 
-## Ich hab's! {background-image="../figures/wickie-stars.gif"}
+## Ich hab's! {background-image="figures/wickie-stars.gif"}
 ### Ein Wi(c)ki(e) für die Bücherei Nofels
 
 ---
 
-## Was ist ein Wiki?  {background-image="../figures/Wikipedia-logo-v2.svg" background-opacity=0.1}
+## Was ist ein Wiki?  {background-image="figures/Wikipedia-logo-v2.svg" background-opacity=0.1}
 
 > Website, deren Inhalt von Besuchern nicht nur _gelesen_ sondern auch _verändert_ werden kann \todo{CITATION}
 
@@ -97,7 +97,7 @@ Beispiele
 - gemeinschaftliches Arbeiten (Kollaboration)
   - _Author_ 👤 und _Zeitpunkt_ ⏲ ersichtlich
 
-![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence): beliebtes ](../figures/confluence-review.png){width=40%}
+![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence): beliebtes ](figures/confluence-review.png){width=40%}
 
 ::: notes
 
@@ -158,7 +158,7 @@ TODO: opacity / background - Confluence?
 1. Anforderungen und Erwartungen klären
 2. Ideen für Inhalte sammeln
 
-![Ideen für Wiki-Inhalte](../figures/mindmap_content.png){ width=70% }
+![Ideen für Wiki-Inhalte](figures/mindmap_content.png){ width=70% }
 
 ---
 
@@ -194,19 +194,19 @@ Aussehen entspricht dem Ergebnis
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 
-![DokuWiki](../figures/dokuwiki_2.png)
+![DokuWiki](figures/dokuwiki_2.png)
    
 :::
 ::: {.column width="50%"}
 
-![BookStack](../figures/bookstack.png)
+![BookStack](figures/bookstack.png)
 
 :::
 ::::::::::::::
 
 ## BookStack {auto-animate=true}
 
-![BookStack](../figures/bookstack.png)
+![BookStack](figures/bookstack.png)
 
 ## BookStack {auto-animate=true}
 
@@ -239,10 +239,10 @@ Aussehen entspricht dem Ergebnis
 4. Rechte verwalten
     - wer darf was?
 
-## Willkommensseite {background-image="../figures/bookstack_willkommen.png" background-size=auto}
-## Regale {background-image="../figures/bookstack_regale.png" background-size=auto}
-## Bücher {background-image="../figures/bookstack_books.png" background-size=auto}
-## Jahresübersicht {background-image="../figures/bookstack_2024.png" background-size=auto}
+## Willkommensseite {background-image="figures/bookstack_willkommen.png" background-size=auto}
+## Regale {background-image="figures/bookstack_regale.png" background-size=auto}
+## Bücher {background-image="figures/bookstack_books.png" background-size=auto}
+## Jahresübersicht {background-image="figures/bookstack_2024.png" background-size=auto}
 
 ## Nachbereitung
 

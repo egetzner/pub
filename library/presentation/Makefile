@@ -73,6 +73,9 @@ view_html: slides
 slides: setup
 	pandoc -s -t revealjs -V progress=true -V margin=0.2 -T 💡 -V slideNumber=\'c/t\' --slide-level=2 $(EMBED_RESOURCES) $(THEME_CMD) $(TOC_CMD) --css=$(CSS) --reference-location=section "$(INPUT)/$(MAINDOCNAME).md" -o "$(OUTPUT)/$(MAINDOCNAME).html"
 
+publish: slides
+	mv "$(OUTPUT)/$(MAINDOCNAME).html" "index.html"
+
 beamer: setup
 	pandoc -s -t beamer "$(INPUT)/$(MAINDOCNAME).md" -o "$(OUTPUT)/$(MAINDOCNAME).pdf"
 
