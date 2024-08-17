@@ -1,0 +1,25 @@
+  .line {
+    background: purple;
+  }
+    
+  .date {
+    color: gray;
+  }
+  
+  
+  .rotate-right {
+     
+    /* Adjust the angle as needed */
+     
+      transform: rotate(5deg);
+      margin-top: 100px;
+  }
+  
+  
+  .rotate-left {
+     
+    /* Adjust the angle as needed */
+     
+      transform: rotate(-5deg);
+      margin-top: 100px;
+  }
