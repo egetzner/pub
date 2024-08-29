@@ -2,14 +2,52 @@
     background: purple;
   }
     
+  .subtitle {
+    font-size: larger;
+    background: #FF4081;
+    color: white;
+  }
+  
+  .author.institute {
+  }
+    
   .date {
-    color: gray;
+    font-size: smaller;
+  }
+  
+  .footnotes {
+    font-size: smaller;
+  }
+  
+  .highlight {
+    background: #FF4081;
+    color: white;
+    padding: 5px;
+  }
+ 
+  ul.result {
+  list-style-type: '🢧 ';
+  font-weight: bold;
+ }
+ 
+  .reveal img {
+    margin: var(--r-block-margin) 0 0 0;
+  }
+  
+  figcaption {
+    font-size: 65%;
+  }
+  
+  .reveal .footer {
+    position: absolute;
+    right: center;
+    bottom: 10px;
+    line-height: 1;
+    padding: 5px;
   }
   
   .box {
-    position: absolute;
     width: 40%;
-    right: 0;
     box-shadow:
       0 1px 4px rgba(0, 0, 0, 0.5),
       0 5px 25px rgba(0, 0, 0, 0.2);
@@ -18,6 +56,21 @@
     padding: 20px;
     font-size: 20px;
     text-align: left;
+  }
+  
+  .citation {
+    font-size: small;
+    color: gray;
+    position: bottom
+  }
+  
+  .box.right {
+    position: absolute;
+    right: 0;
+  }
+  
+  .box.bottom {
+    position: bottom;
   }
   
   .rotate-right {

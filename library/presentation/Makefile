@@ -12,9 +12,10 @@ DATESTAMP_AND_PROJECT = ${DATESTAMP}_${PROJECTNAME}
 # Define the web browser to use for viewing the HTML
 HTMLVIEWER = firefox
 PDFVIEWER = evince
-THEME=moon
+THEME=moon #robot
+#moon
 TOC=false
-CSS='../themes/custom.css'
+CSS='themes/custom.css'
 
 #help
 #helpThe main targets of this Makefile are:
@@ -51,7 +52,7 @@ endif
 
 ifdef THEME
 	ifeq ($(THEME),robot)
-		THEME_CMD = -V theme=default --css='../themes/robot-lung.css' --template='border'
+		THEME_CMD = -V --customtheme='themes/robot-lung.css' 
 	else
 		THEME_CMD = -V theme=$(THEME)
 	endif
@@ -68,13 +69,10 @@ endif
 #help	view_html	open the generated HTML slides in the default web browser
 .PHONY: view_html
 view_html: slides
-	$(HTMLVIEWER) "$(OUTPUT)/$(MAINDOCNAME).html" &
+	$(HTMLVIEWER) "index.html" &
 	
 slides: setup
-	pandoc -s -t revealjs -V progress=true -V margin=0.2 -T 💡 -V slideNumber=\'c/t\' --slide-level=2 $(EMBED_RESOURCES) $(THEME_CMD) $(TOC_CMD) --css=$(CSS) --reference-location=section "$(INPUT)/$(MAINDOCNAME).md" -o "$(OUTPUT)/$(MAINDOCNAME).html"
-
-publish: slides
-	mv "$(OUTPUT)/$(MAINDOCNAME).html" "index.html"
+	pandoc -s -t revealjs -V progress=true --template='custom_title_page' -V margin=0.2 -T 💡 -V slideNumber=\'c/t\' --slide-level=2 $(EMBED_RESOURCES) $(THEME_CMD) $(TOC_CMD) --css=$(CSS) --reference-location=section "$(INPUT)/$(MAINDOCNAME).md" -o "index.html"
 
 beamer: setup
 	pandoc -s -t beamer "$(INPUT)/$(MAINDOCNAME).md" -o "$(OUTPUT)/$(MAINDOCNAME).pdf"
