@@ -1,6 +1,6 @@
 ---
-title: Wiki für die Bücherei Nofels
-subtitle: Wissensaustausch im Wandel
+title: Wissensaustausch im Wandel
+subtitle: Wiki für die Bücherei Nofels
 author: Elisabeth Getzner
 institute: Bücherei Nofels
 date: September 2024
@@ -83,7 +83,7 @@ Ein Wi(c)ki(e) für die Bücherei Nofels
 
 ## Was ist ein Wiki?  {background-image="figures/Wikipedia-logo-v2.svg" background-opacity=0.1}
 
-> Website, deren Inhalt von Besuchern nicht nur _gelesen_ sondern auch _verändert_ werden kann \todo{CITATION}
+> Website, deren Inhalt von Besucher:innen nicht nur _gelesen_ sondern auch _verändert_ werden kann \todo{CITATION}
 
 Beispiele
 : 
@@ -97,7 +97,7 @@ Beispiele
 - Erfahrung & Wissen dokumentieren
   - Zugriff auf bereits existierenden Lösungen
 - gemeinschaftliches Arbeiten (Kollaboration)
-  - _Autor_ 👤 und _Zeitpunkt_ ⏲ ersichtlich
+  - _Autor:in_ 👤 und _Zeitpunkt_ ⏲ ersichtlich
 
 ![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence)](figures/confluence-review.png){width=50%}
 
@@ -193,11 +193,9 @@ Beispiele
 Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
 
 
-## Ideen für Inhalte {visibility=hidden}
+## Ideen für Inhalte {visibility=visible}
 
 ![Ideen für Wiki-Inhalte](figures/mindmap_content_white_background.png)
-
-## {background-iframe="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&title=#R%3Cmxfile%3E%3Cdiagram%20id%3D%22V71sIDP0t6J8WiogdwQq%22%20name%3D%22Seite-1%22%3E7V1bl9soEv41ftwcXS3psS%2FpJDvpk5z0bDLZNyzRNrEsvBLu269fkEAXwG7ZLSkz3eTkJAYhkKDq%2B4qiQDP3YvPwIQfb1TVOYDpzrORh5l7OHMeeRyH9j%2BU8VjmhwzOWOUp4oSbjBj1Bnmnx3B1KYNEpSDBOCdryTF4uxlkGY9IpCPIc33fvvcVp0rlvC5awU4Jl3MQgVXN%2FoISseC59sebCR4iWKyLeL6gubIAozFsqViDB960s9%2F3MvcgxJtWvzcMFTFnnoc4TXlVX8eIXez3HSsGCdnFZ4BplyTXYVtWLu6KorruucQtymBFNrfQHr1j%2FCLblVLXfgXTHe4S%2FDXkUXbTM8Y4%2FxB3MCXzo9BwfGLAQxeuOb56p88wfIN5Akj%2FSMrwmv7qDS5DLe%2F6%2BMxy81lVrKAKfZwIuA8u65k4P8LfW90CP9y%2Fu0SYFGU2dFwTkhAsxfVH3fIVz9IQzAtiQ2TQjZgmUwfzPxy0rRXLIbryl2Vdgg1L2kh9hegcJigG%2FwCu05zRdDv85iNes17PkAqc4p9cyXLZfXcV5AnPpinjIz4glL9mzlRXAhKdq8WSJZQqKQlwgOV7Xwm%2B36rpCaSqaSeAt2KWEPbE2d4PvuAiwGnJYoKd2GhNAWmmKIrCdhglqJ1Mcr%2BsH7wpY1cdpCrYFqnKad5C6RJXDRtxlOVZl82Xix%2Bv7xh48W9LnrIU9sjrS7lmqtDua1lypMZASmGeAwHM2yoUi8vWb9NIC93ktgAnFTZ6kHYrI4zeYAoJw9r65UinIGcPlZhxglkg5BVxuqkGxyxHe5XflcJfCh3d5DL%2FCHNHnh%2FnNFsQoW%2FJxprUvIdlzsSvv8AGRv9jvd4Eb8PTPMh15Nk9fPrQKXz7yxG2K788ytClfTgjYGpJY6Ef5vFeIkKptlvULLZdl1zjlC9OOr9r2RfKnaIklmnbL1GPrKep343mqEIuhKfuJiyInzrJ3OE9VWWzUDop5Xg7iXZcND0j0V4wy0oJuO3oXtf6EHeF2LElq%2BeBWdTQSS8UDPLaKbVmBYn%2BrgaxECutVNZ6qDt7rU4ejBLiX0IWq0EWjCN2x0hG6XYPCc4eVDv%2F1SUcNli2gPAySkwDiqeAnJhe%2FWRC9SLJsg44gquWdLqyJ9xhKcOevT3CHhzVbg2u2PbQ89Z2e2MGJQ9TtJpyTFV7iDKSfMd6KvoGEPPK5B9gRzKYzZCMmMr9zjHVwVCOQFo5qhLE7%2BNLAzR6EGV5%2BdHA0kTFm2138qKctogre6S81vxwJp4JhYSpQYOoHWiOa8ylbsWmPqhFpirYFE0eQoiUz2WM6QsyEPmfT7yucJs2IspxrfNdkZPC%2BpTiXs4CO8%2Fx%2FO%2Ba2OW90rc6auWet63v0ryntXDSJlkrpqyuVSn9vrXpH3ylUtH0jE5RWEa62nRLdOvSq3L6hW%2BMe9e7eEFxK7oSZ4y7sJLlVp%2FT0im0FbgQVhwVTzK0eRjouj7ajJZwd8Mic6oEh8IHctFu8XyEC2ROxNu9zsO0CbPlAXOjswaCoh2dDWBuhZG2E3FppuSIci%2Be1XRGi3Et4LVR0%2FCxLISK7bAkzRcGf6cmG61gK5DEfZ9%2FSQQLrITrS6Rm%2FsEFJkqpyVVZFWbHgMsMK1NLlGWj550FLnMBFuNBBizt3Izc5VgfbiOINo5NzyRfuWZ6ik7an0UlvAFd4pJkezEvnboLu6M8l%2B%2FkRZMliR%2FuIX6KVtq4eq7kUoUsvOe00gkDauEvpMJd2KtPgFN4S%2FnOBCcEbofb89dkFbrLQNv1z%2BpdJjD3zL5ng%2BOe2SPmyVHDofhYjRLsMapg4XJQFGxOzyMD2T1yZSVroMGDxdweLqek39CRVn2tWAqweKwGnqLpnv8Vp5QjOAkud7bneb3MWWAqCf8mXIENFtZRhzCqDlH9%2Fs6qzNr1vBjeQveVKcyDP1oCwqwHhIewt4VU8bHDd4M0G5iks2LzI2FzG5npFSDK1zWULlRMO0kB1edRO1KFtLv9N2lxNGIY%2F6%2BvMH8FOm6t2mgjfGdsrH4VOR%2Bh83%2BtWsSco4gTPeXTqapHgBB5rxXC6KwAHVt06o6EZrakE9gXzgo7h0sS09bdxe4X3Caev2tAel3NT4HQh93%2FbZES32tyyblpCKoiBdc6%2FKgKn9GbZ3vahfPeG2iqL5wkikiLmg7IWcEn75IktCll%2FruCmMZIW%2BYvaGMbWMlMoY%2Fi8Es%2B0L60WWbZiOjm6wFXPGwBL1OWi7zAHGZWt1CwZGcV8y4pZL8fWiqnZP%2BGPtGTkqB7HUy3QVxxSpokocwaPKNsTC2t1YXsuj%2Fpwkw%2BnlzvrMt%2FFa5iXpluCYGa8Wsar9co4ZPKVRHkDXahxYnsjebVMUPGpDBBMwwCBZLj7YT8GePGui%2BhwsHtoy6Euw0aRasJIb%2BLVLs3hEqZHzxcMvRh6eav0IgeqOBp6GStQRRMoauhF9fzq%2BGWczXgKjrsS7jvytugBZxhqhOIHkD3RnC%2Br3CC6QXSD6P2Wwd3uMrhjq8vg0UiA7hqP0YmA7k7kMpoQ0F3VZfQHoh2br8CuMIBuAN0Aej9AdyRA9zVxTWOZ6CLeuaXE%2F90VZHbhzs68LEHLNaR6a2bcRp2NOveMSvb1rrRnD4ka4kA071R77B8dpjjN1hDPncaEc2TfahCNZcJ56tFhN48Fgez0rLXBfIP5BvP7YX4gqaxuEW%2B07YCewfzRMH%2FwCNzfj%2Fm6E9CUSI8%2F2EmoaxaZa%2BI7DDUYajh9dh%2FZkmarh0KM5a715oYZRmOGiSJAbNm08MZjBjXo4hssqvqNB8hAvoH8nkHd0gl7rs4DNNZsQHiR2lN6RJ522bLY5pjgNU5T9RA%2Bo8xGmY0yaz9vISlzrbhTxOf66lztMyrK9Rjrlq3RnF%2Fk9Oe%2FwSqHxYL2XrwiRreNbhvd7qXbkSfptqvRbd3XQwbRbTM5G%2B90iIkmZ2Eg76vtdzrEseH5kRt02vH5sv2%2B8PyjyztSee%2BZ8p5UPuiUf%2FlHGtSZ6HuUrcHutkgZ%2FxmOMxxnOK4fx0kBgXN15%2F9ohyYJ6nxbFHcya4mhGf1MI3lTWU%2BX4tGsZUss4TzDKseWt17IcvNhWUuMX%2BdcdMpWKyp55RE3MN%2BwD%2FwZ8jLkZcirF3lJm6N1Xzmw%2FbHYy1E09Q2w1%2FATNOHE6lDdRLF0gS990zCSPn8x1DcNPVlQD%2B%2BfPrq8vK3jmf3ZgRSE6g78jcW5Gjj4wjOdDMsZlnurLCd%2Fy8fRsJzuHOtBWM5ED47HchNFDxqWG4nl1OW3KyroC5QmhuMMxxmOO4LjpI9%2B27qZ3Gh%2ByNBw3FhLbfOJTioJhKFSH8QuVTFcHKR4pbYfL19ARMzik0F9g%2FpHoH4gfdNYuOqmCIQMVG%2F8dXloKQMr%2BspwYQw4o8pGlfuqctSda%2FmeRpfHclKIMBtz7tAh8yxSrbNgqiVlS96lMtqxQ4FjZOE0WZhozcW25O8gz8cTBnUdoib5DVjvUgRzQ%2FOG5g3N96V5yQXrT3kcefAm1yJO%2BcgefYr88S%2FedJn42U40N5WpaT%2FNF0y16rEnaHnwVQ9faic6HGYml5%2Fbz5SXvvIh3KDaVQz1bsmxKh8Qz0VvCK5VV0M%2BJVDei0TJl%2F6bVQfIxavSX2bxHYiGhw0PGx7uxcOepNaBSsPOaJ4zs1wyCDl6mpCAYKLlEvkcYM8f7diIQF0uuUb0ndmKCYPLM5RlZg5msN9g%2F4kHAs8d9cig0Vytwn404D88%2BIcTeWODrvz0nRidgP2husj2KSuoiOyYeBjUN6hvUL836ktr5aEG9ccy%2BcNT11AM6j%2BP%2BlPtdZkO9dVVlw9wUbl8dokJkDKgb0C%2FL%2Bg%2FH1Ux1umgoTmAZhjMDzSYP9EBNI7s5nH67fw4BfTVM1nOvzPMj1Q5MoBvAN8AvhbwpUApd64C%2FlgnjoXGrz8e4E%2Fk158S8FW%2F%2Fvn37wbrDdYbrD8N6zXnQI%2BF9ZFx44%2BG9dFEbnzl6H9ZMIbD%2Bkj141%2BiMqhn%2FgQL49ExoG9A%2FzTQ9xwV9MOxQF%2F3aSeZBRQobuntgV0JnX7S9GNBcryGQgETeAt25YejntXBDUqSEhlucUauwAalrOc%2BwvQOsnL8Aqcb2%2BZptaEULGB6DuL1snwLtUCb%2Fxpe62wIOT2GV8Tj1okGRA5F5HZ4rxchafhIBOE%2By0ctEdQdmibyXkhbfiiZPT33AikVzfccB%2FLy2Fa8%2BEUpidZUCk1V2UfaEWnZGY71GTxSWS3bErrV7lKudu2RkkN2eQtl8j8FzL9oWhQjueSv8xFkyWJHNa7bsOWqTbcUWujTZ1bxV0pOjCra3CYrXMnAOrbePCwpk6%2FeLUCB4ncgj2tOqbibyrPLqaLOsI%2BF2DZNzxz3NoxhHCv4Qa9cXFj0T33lB5dd9gQbfAcWqeDgHFJCbqcxAaSVTmAK22mYoHYyxfG6hrwYZxkzVprLe%2FC%2FO%2FqHKSEU2F7vgtbsqdAppKw4PTiBJlviNoj4eUb8uuI3gEj40vcebTeaUiRoVo4xacMl6%2FprnDDheP9%2F%3C%2Fdiagram%3E%3C%2Fmxfile%3E" background-interactive=true visibility=uncounted}
 
 # Technische Umsetzung
 
@@ -208,12 +206,11 @@ Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
   - Hosting (Bereitstellung der Software)
   - Wartung (Updates, Sicherheitskopien, etc.)
   - zusätzliche Kosten
-- Wiki-Systeme mit Anforderungen vergleichen
 
 ## Entscheidung für ein Wiki {auto-animate=true}
-- 82 Wikis zur Auswahl bei [WikiMatrix](https://www.wikimatrix.org/)
-- Nach Anforderungen und technische Limitationen
-    - 2 freie Lösungen: [DokuWiki](https://www.dokuwiki.org/dokuwiki) vs. [BookStack](https://www.bookstackapp.com/)
+- Wiki-Systeme mit Anforderungen vergleichen
+  - [WikiMatrix](https://www.wikimatrix.org/) vergleicht 82 Wikis
+  - [DokuWiki](https://www.dokuwiki.org/dokuwiki) vs. [BookStack](https://www.bookstackapp.com/)
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -232,7 +229,163 @@ Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
 
 ![BookStack](figures/bookstack.png)
 
-## BookStack {auto-animate=true visibility=hidden}
+## Installation
+
+1. Hosting beantragen bzw. installieren
+    - Kosten: €5/Monat
+2. Benutzer importieren
+    - jedes Teammitglied hat eigenen Benutzer
+3. Inhalte importieren
+    - sortieren & strukturieren
+4. Rechte verwalten
+    - wer darf was?
+
+# Ergebnisse {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-opacity=0.1 background-size=auto }
+
+## {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-size=auto data-transition=fade}
+
+::: {.box .right}
+Startseite:
+die wichtigsten Inhalte und Links
+:::
+
+## {background-image="figures/wiki_screenshots/books_important.png" background-size=auto data-transition=fade}
+<img class="border bottom right" src="figures/mindmap_compact.png" width=40% />
+
+## {background-image="figures/wiki_screenshots/handbuch_1.png" background-size=auto data-transition=fade}
+
+::: {.box .left}
+Inhaltsangabe & Navigation
+:::
+
+## {background-image="figures/wiki_screenshots/bookstack_2024.png" background-size=auto  visibility=hidden}
+
+::: {.box .right}
+Jahresübersicht 2024: Seiten zur Organisation der Bücherei,
+Sammelbecken für Arbeiten und Ideen, Sitzungsprotokolle dieses Jahres.
+:::
+
+## {background-image="figures/wiki_screenshots/suche.png" background-size=auto data-transition=fade}
+
+::: {.box .right}
+Volltextsuche über alle Inhalte
+:::
+
+## {background-image="figures/wiki_screenshots/edit_protokoll.png" background-size=auto data-transition=fade}
+
+::: {.box .right}
+Bearbeiten mit Vorlage für Sitzungsprotokoll
+:::
+
+## Nachbereitung
+
+::: incremental
+- Mitarbeiter:innen __schulen__❗ 
+   - steigert die Sichtbarkeit
+   - mindert die Angst vor Fehlern
+- Rechte und Benutzer pflegen
+- Aktuell halten und verwenden!
+:::
+
+::: notes
+
+1. Schulungen
+   - wichtig um die Mitarbeiter:innen vertraut mit dem Tool zu machen
+
+2. bei Änderungen im Team oder der Verantwortlichkeiten muss der Administrator 
+   - die Schreib- und Leserechte anpassen, 
+   - ggf. Benutzer hinzufügen / löschen
+
+3. Wiki muss beworben und benutzt werden
+  - veraltete Informationen nützen niemandem etwas
+
+:::
+
+# Reflexion
+
+## Beantwortung der Leitfragen
+## Antwort der Leitfrage {auto-animate=true}
+
+### 1. 👓 __Lesen__
+- zentraler, durchsuchbarer Ablageort
+- gesteigerte Wertschätzung der Dokumentation
+- offene Arbeiten identifiziert
+
+## Antwort der Leitfrage {auto-animate=true}
+
+### 2. ✍️ __Bearbeiten__
+
+ - Schulungen 
+ - einfaches Bearbeiten
+ - Angst vor Fehlern nehmen:
+    - Versionierung / Inhalte wiederherstellbar
+    - eigene Seiten zum Testen der Eingabe
+
+## Antwort der Leitfrage {auto-animate=true}
+
+### 3. 🫰 __Nutzen__
+ - derzeit: Nutzen > Kosten
+ - Evaluierung nach 1 Jahr
+ - Alternativen: 
+   - Bibliothekssoftware
+   - Office Suite
+   
+::: notes
+### 👓 Lesen
+- zentrale Ablage z.B. für Protokolle, Anleitungen und 
+- Information durch Volltextsuche leicht auffindbar
+- gesteigerte Wertschätzung existierender Dokumente
+- offene Arbeiten identifiziert
+
+### ✍️ __Bearbeiten__
+  - einfache Eingabe
+  - Schulungen essentiell
+  - Historie: alte Versionen wieder herstellbar
+    - Angst vor Fehlern nehmen
+
+### 🫰 __Nutzen__
+  - derzeit: Nutzen übersteigt Kosten
+    - Struktur & zentraler Ort sehr hilfreich
+  - Evaluierung ausständig (06/2025)
+  - Alternative Möglichkeiten:
+    - neue Bibliothekssoftware
+    - Online Office Suite
+
+:::
+
+
+## Das habe ich gelernt
+- Inhalte & Anforderungen kommen vom Team
+- Nutzen muss erklärt und beworben werden
+- Es gibt keine perfekten Lösungen!
+
+## Es muss kein Wiki sein...
+
+Wichtig ist, sich mit der Dokumentation auseinanderzusetzen!
+
+- fehlende Dokumente ergänzen
+- vorhandene Dokumente aktualisieren
+- Wissenslücken schließen
+
+
+::: notes
+
+wichtig ist, sich über die vorhandene und fehlende Dokumentation Gedanken zu machen und mit dem Team gemeinsam an einem möglichst aktuellen Wissensstand zu arbeiten.
+
+:::
+
+# Vielen Dank! {background-image="figures/thats-all.gif" background-opacity=0.5}
+
+## Tipps {visibility=uncounted}
+- technischer Hintergrund ist hilfreich, aber nicht zwingend notwendig
+- kostengünstige Möglichkeiten evtl. bereits verfügbar
+    - [Microsoft 365](https://www.office.com/) bzw. [Google Docs](https://docs.google.com)
+- Self-Hosted vs. Hosted:
+  - evtl. kann Wiki mit Website verbunden werden
+  - Self-Hosted nur bei hoher technischer Kompetenz
+
+
+## BookStack {auto-animate=true visibility=uncounted}
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -246,121 +399,13 @@ Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
 :::
 ::: {.column width="50%"}
 ### Nachteile
-- schwerer aufzusetzen
+- schwerer aufzusetzen / mit existierender Website kombinierbar
 - wenig erweiter-/anpassbar
-- etwas unübersichtlich
+- anfangs etwas unübersichtlich
 
 :::
 ::::::::::::::
 
-## Installation
 
-1. Hosting beantragen bzw. installieren
-    - Kosten: €5/Monat
-2. Benutzer importieren
-    - jedes Teammitglied hat eigenen Benutzer
-3. Inhalte importieren
-    - sortieren & strukturieren
-4. Rechte verwalten
-    - wer darf was?
-
-# Ergebnisse {background-image="figures/bookstack_willkommen.png" background-opacity=0.1 background-size=auto }
-
-
-
-## {background-image="figures/bookstack_willkommen.png" background-size=auto}
-
-::: {.box .right}
-Startseite: die wichtigsten Inhalte und Links
-:::
-
-## {background-image="figures/bookstack_2024.png" background-size=auto}
-
-::: {.box .right}
-Jahresübersicht 2024: Seiten zur Organisation der Bücherei,
-Sammelbecken für Arbeiten und Ideen, Sitzungsprotokolle dieses Jahres.
-:::
-
-## {background-image="figures/bookstack_books.png" background-size=auto}
-
-::: {.box .right}
-Seiten gruppiert zu Büchern (Themen)
-:::
-
-## {background-image="figures/bookstack_regale.png" background-size=auto}
-
-::: {.box .bottom}
-Bücher stehen in Regalen (Überkategorien)
-:::
-
-## Nachbereitung
-
-1. ❗__Schulungen__❗
-    - Suche & Navigation
-    - Bearbeiten
-    - bewerben (TODO!)
-1. Benutzerrechte pflegen
-    - Benutzer hinzufügen/löschen
-    - Schreibzugriff limitieren
-5. Kosten- & Nutzen analysieren
-    - Benutzerfeedback
-
-## Beantwortung der Leitfragen {auto-animate=true}
-
-TODO: Probleme nochmals aufgreifen - schauen ob diese nun gelöst sind?s
-
----  
-
-## Beantwortung der Leitfragen {auto-animate=true}
-
-
-### 👓 Lesen
-- zentrale Ablage z.B. für Protokolle, Anleitungen und 
-- Information durch Volltextsuche leicht auffindbar
-- gesteigerte Wertschätzung existierender Dokumente
-- offene Arbeiten identifiziert
-
----
-
-## Beantwortung der Leitfragen {auto-animate=true}
-
-### ✍️ __Bearbeiten__
-  - einfache Eingabe
-  - Schulungen essentiell
-  - Historie: alte Versionen wieder herstellbar
-    - Angst vor Fehlern nehmen
-
----
-
-## Beantwortung der Leitfragen {auto-animate=true}
-
-### 🫰 __Nutzen__
-  - Derzeit: Nutzen > Kosten
-    - Struktur & zentraler Ort sehr hilfreich
-  - Evaluierung ausständig (06/2025)
-  - Alternative Möglichkeiten:
-    - neue Bibliothekssoftware
-    - Online Office Suite
-
-
-## Das habe ich gelernt
-- Es gibt keine perfekten Lösungen!
-- Team ins Boot holen:
-  - Nutzen muss erklärt und beworben werden
-  - Inhalte & Anforderungen kommen vom Team
-- wichtig ist, sich über die vorhandene und fehlende Dokumentation Gedanken zu machen und mit dem Team gemeinsam an einem möglichst aktuellen Wissensstand zu arbeiten.
-
-# Vielen Dank! {background-image="figures/thats-all.gif" background-opacity=0.5}
-
-## Tipps {visibility=uncounted}
-- technischer Hintergrund ist hilfreich, aber nicht zwingend notwendig
-- kostengünstige Möglichkeiten evtl. bereits verfügbar
-    - [Microsoft 365](https://www.office.com/) bzw. [Google Docs](https://docs.google.com)
-- Self-Hosted vs. Hosted:
-  - evtl. kann Wiki mit Website verbunden werden
-  - Self-Hosted nur bei hoher technischer Kompetenz
-
-## Vergleich zw. DokuWiki & BookStack {visibility=uncounted}
-
-## {background-iframe="https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&title=#R%3Cmxfile%3E%3Cdiagram%20id%3D%22V71sIDP0t6J8WiogdwQq%22%20name%3D%22Seite-1%22%3E7V1bl5s4Ev41ftw55mbgsd2dTrKTnJmTnpOZ7Bs2aqy1jLwg9%2B3Xr4SFAUm2MQ1kprtychLrAgKp6vtKpZKYONebp49ZtF19pTEiE3saP02cm4ltW7Mw4P%2BJnOd9TmDLjCTDsaxUZdzhFyQzpzJ3h2OUNyoySgnDW5kp6y1pmqIla1SMsow%2BNq%2B9pyRuXLeNEtSoITLulhHRc%2F%2FEMVvJXP5iVcEnhJMVK9%2FP3xdsorKybClfRTF9rGU5HybOdUYp2%2F%2FaPF0jIjoPN57w9kjp4cEylLI2F9j7Cx4ispPvJp%2BLPZcvmz%2FiDYlSnprnLMqYHA5%2BY2e%2Bohl%2BoSmLCM%2BxeMZSJHCKsj%2Bet6IWy5C48J5n30YbTMSAf0LkATG8jGSBvKE142kSLRCZR8t1ktFdGl9TQjNeltKi%2FX0pzWKUKSXlQ37BInkjnq24AYpl6tDRIpGQKM%2FLApbR9WEYrdq9bjEhZTMxuo92hIknNuZu6EO0KHpM3CFDOX6ppymLWC3N9QHV0yjG9SShy%2FXhwaUM14qXlJBom%2BN9TvUOSpfooiCl4wFlDD3VsqRofER0g1j2zKvIUm9%2FgdRSR0r3Y0PkpSCvauLuezIzknqWHO58aOybeKc04a9waC2cNppzp3pztqE1R2ksIgxlacTQXAhAXhd%2F%2FqP2mlVWoRRmBXHOKwiKOTjIJO9rzJ6%2FIRIxTNMPVcled64E%2BFRDhNJYyclRstmPl1UM%2Fi57KCShkEu6y5bod5Rh%2Fvwou9tGS5wmUgT43RPEjhQ2VQE9YfaX%2BP2L7%2Fgy%2FaNIh64l0zdPtco3zzJxT%2BjjVYo3xcuVsrdGbFmqTvG8t5ixfdsi6784SYqusYsX5h2%2Fb9srkz%2FKlkSiardIPdee4vBuMk%2BX73Join6SoijZoegdCcb7LDFqJ3UgKwbxoQn5JyT6d4r5g1S6Y4W%2FhLU%2FQUO47akitXJw9%2FeoJJaLR%2FRcq7YVFfLjrfqqEjXxn%2F%2FY37GrOrhvTx0uEuBWQhfoQhcOInSXSkfgNBHddfqVDu%2FtSccBLGtAeRokRwHEruBXWtA%2FWRDdUDEtfMVMVevbTVgr36MvwZ29PcHtH9YsA65ZVt%2Fy1LDVTgyZ5XccomY30YytaELTiHyhdFv2DWLsWU5Loh2jYqbDNuUc52eOsQmODghkhKMDwlgNfKng5gjC9C8%2FJjgayRizrCZ%2BHKYt5S1kp7%2FW%2FLIVnPL7hSlfg6k%2F8RrznM%2FpSkx7dI0gBG9zIY4RwYkw2Zd8hIQJPRcz81tK4mpERc5X%2BlBlpOixpjg3E5%2BP8%2Bx%2FO%2BGbmFe6dsiaOFe18iP6V9W2r6tETaXMtyuUynztQfUuvrJU0fqFQlBqVaTaNmo072FW5foFzTseUe%2FmBf6N4mmY2M7CiuN7fbbPS6yp74RI82UIxdyaYaThDan7YILJCWdNV%2BcMQ0%2Fsrt7i4wozJJ5ItPmYRdsmwBYPJIXO6g2K2rs93ECxNgJprdRcEfZU5tVdEWW91%2FBaoOn4VUoQZrs0Qamm4Gd6suI6kYqypRxnb2qCBNFDfKTJlSzY4DgmulwVt%2BKsmEuZERUO0uUCtPzzoGUZo0WwMEGLM3NCJ75UB%2BuI4vajkzPFGelOXU0nLdegk%2B4JX2RbnQwN04NZ4feN8QP%2FmYifn6I0Xux4H8kiftNa6aWayxG6cKDzTmM4IpW7lA9zYacKDSbonsmfC8oY3ZRqL19fFEiThbfpzflfITHWxLsRguPNrTLlqVIhofssRpTtCqgR4nBdVKxMzDyNtn%2FQvZlkhA4Ai787WIxNv4GrqPrMsBIwbbES0EXVXes9TisHcBZM9dme4%2F40Z8FUQ%2FDfsiRKcb5fygCzCpDy729WNZatj83gerK3HGUO5FoGEHYMINyHvVV6FU8bXHd0s0EZQbmYF4HNBTbXG0KSsW0uq1S50kHq6y6PgxO1b5vLe5c2VxWG4U3aOvMHsNNmup1Whu8M7ZUPA7shdJ7nNm9xJCiig%2Bc87LpaVHKCDMMSON0UgBOrbo3RMIzWWAL7inlBw3Cpwt3a27itIv9Kp6%2Fe0BGXc1Whu5B7P20yYlptrlk3NSEtiUF0zr%2F2BM7pbWq526fi3Stq21s8LwgzgoUParpACe%2BTF7EoNP1jhTaVkbTIXtVGP7YWTKHA8HkjnmlPWS2aWprpZJsCV123ByzRl4u%2BoyxKuWwRWDICxXzPinlYjj0opiGA3RtoycjWPY5dLdA3HFJmiCize48oOxILO23C9kwd9f4mH3Yrd9ZNtluuUVaYbjFGKXi1wKv1xjhk9JVEdQdTYHBiuwN5tSCouCsD%2BOMwgK8Y7l7QjgFevesiPB3sHlhqqEu%2FUaSGMNK75WpHMpQgcvF8AegF6OW90osaqGIb6GWoQBVDoCjQi%2B75NfHLMJvxNBx3FNy31W3RPc4w9AjFj1H6wnN%2BW2WA6IDogOjtlsGd5jK4benL4OFAgO6Ax6gjoDsjuYxGBHRHdxn9innHZqtolwOgA6ADoLcDdFsBdM8Q1zSUiV7GO9eU%2BD%2B7nE2uncmVm8Y4WSOutzDjBnUGdW4ZleyZXWlnD4k6dSJV660hXe2xf3SY4jhbQ1xnHBPOVn2rfjiUCefqR4fdPecMidOz1oD5gPmA%2Be0w31dU1rSIN9h2QBcwfzDM7z0C9%2BdjvukENC3S41dxSOpaROZCfAdQA1BD99l9aCmarR8KMZS71p0BMwzGDCNFgFiqaeEOxwx60MU3lO%2FvDx4ggHyA%2FJZB3coJe47JAzTUbKD0ItWn9Ji97NIk32aU0TUlRD%2BED5QZlBmU2fh9AUWZD4o7Rnyup8%2FVvuC8WI%2BZ3os1mvl1xn%2F%2BO1plKF%2Fw3luuGOg26DbodivdDl1Ftx2Dbpu%2BHtKLbsPkbLjTIUaanAW%2Buq%2B23ekQl4bnh47faMeTy%2FbHwvMvrm8r9d0z9V2lvt%2Bo%2F%2FqPNOgz0Q84XUe7%2B5wI%2FgOOA44DjmvFcb6jQpROcUMdmlRS5%2FuiuM6sNRspRjRUN5W1dClezFqWwhL2GVa5tP70lSw365e1yvFrnIvO2WrFJa844gZlG%2FHtPyAvIC8gr1YTNGVztGcgL28o8rI1RX0H5NX%2F%2FKz0YTWYbqRQOt9TPmkYKl%2B%2F6OuThsouSzs4vX364vrqro4z27N9JQbV6fkTizM9bvCVRzoByQHJvVeSUz%2FlYxv2f5iOse6F5SB4cDiWGyl4EFhuIJbTV99uuaAvMImB44DjgOMu4Djlm9%2BW4XN1w7khA%2BC4oVbaZiMdVOKXhsrhHHblFv2FQZavVHfjZQuEGaw9AeoD6l%2By9qR80tjkvhsqDtLXnfFfizNLBVjxV0YLMOBAlUGV26pyqHjiXYMuD%2BWkKKNs4NihU%2BZZqFtn%2FlgrylN1k8pgpw75NshCN1kYac3FmqqfQZ4NJwz6OsSB5DfRekcwyoDmgeaB5ltHiyk0P%2BZp5P67XIvo8o09%2FhTZ81%2By6SLxo56oLipS436Zzx9r1eNIzHLvqx6e0k54OspMrT%2BzztRXPvJRukGNqxj61YpjVT0fXopeH1yrr4Z8jpG6FYmTL%2F833Z8ft1wV%2FrKp3IAIPAw8DDzcioddRa19nYbtwTxnsFzSCzm6hpAAf6TlEvUYYNcb7NQIX18u%2BYr5O4sVEwGXVzhNYQ4G2A%2FY3%2FE84Jmtnxg0mKu1tB8B%2FPsH%2F2Akb6zflJ%2B2E6MO2B%2Foi2yf05yLyE6IB6A%2BoD6gfmvUV9bKAwPqD2XyB13XUAD1z6P%2BWHtdxkN9fdXlI1rsXT67GAKkAPQB9NuC%2FvmoiqEOBw3g%2FJl%2BMN83YP5I58%2FYqpvHbrfzowvo60eyzL8LzA91OQLAB8AHwDcCvhIo5cx0wB%2FqwLEA%2FPrDAf5Ifv0xAV%2F368%2B%2FfwesB6wHrO%2BG9YZjoIfC%2BhDc%2BINhfTiSG187%2BV8VjP6wPtT9%2BDe4COqZvaAcPDoA%2BgD63UDfNZy3GAwF%2BqYvO6ksoEFxTW9P7Epo9JOhH3OW0TUqFTBG99Gu%2BG7UWR3c4DgukOGepuw22mAieu4TIg9I1JMFkm4sS6b1hki0QGQeLddJ8RZ6hTr%2FVbzW2BDSPYa3jMc9JCoQORWR2%2BC9VoRk4KMyCPcsH9VE0HRoWpn3StryAsXsabkXSLvR7MhxIK%2BPbeXJjAqgqKpzDlt9pTESNf4P%3C%2Fdiagram%3E%3C%2Fmxfile%3E" background-interactive=true visibility=uncounted}
+## {visibility=uncounted background-iframe="https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&layers=1&title=#R%3Cmxfile%3E%3Cdiagram%20id%3D%22V71sIDP0t6J8WiogdwQq%22%20name%3D%22MindMapIdeenInhalte%22%3E7V1Xk6O6tv41XXXvw0yRw6OxjbONc3i5RZABgwETnH79lbBxADqM2%2B7ZZx927Zo2kpBAWuv7lpaWxBtZXu9rvuwZHVcD9huBafs3svJGEDhDs%2FAPSjmcU3CaPKXovqmd064JQ%2FMIzonYOTUyNRDcFQxd1w5N75x4Lqe6jgPU8K6g7Pvu7v7epWtrd%2Fd5sg7uSqCEoSrb2dSpqYVG8hoMf82oA1M3zk1zxPmN13JS%2BNxSYMiau7tJIqtvZNl33fD0a70vAxv1nnn3hOI7uZcH84ETfuUG4nTDVraj87udnys8JC8b7My1LTvwSghC2Q%2FPwwErJgXD9c2j64SyDVNwmKCiC9MB%2FujgoVKhD9CNS5gsymvTRiNeB%2FYWhKYqnzPOFeIsvLZlBdiCrFq670aOVnZt14d5jhu3f8p1fQ34qZzkIdsmuqygZ4srANr56tLR6EK35SBIMkLftS7DiN%2FUJZq2nTSjgaUc2bBLhbW7lZW4b1BZHwTm8fbaDeXw5hqKPri9Bpp5e2m7qnV5xLO03mSrrm3LXmCeUlCZ7Pieh3wL%2FBDsb5LO410D7hqE%2FgEWOeeeZfSse4kg7u7k%2BJxo3MgwS58T5bPy6JeaL40N0OM7Onzaa2vYXXNUTnNETmtkqjHZDoHvyCEQ0KgGtzINf9y85jUplvR8qSc%2Fl3qgQY0%2FX8K%2BNsPDANhyaLpO9ZpzUogSQpSrKAJHS6UEQF%2BfxguPxznyt%2FGgx8LmRr4KJOCb8PmBP%2FRk1XT082jD2nUQvpN5le9YsPZmOEM5v1mSPV%2FP42ueSvIr%2B%2FOt8cXhfLG03V3JMdfxyyUFHNiXp%2Bro5HJ%2Bm3etKr463FR8edxEwSwQqoluxe8ummF4eg%2BUtDJ1Pe5mIle%2Bk6GJ%2B%2BksimfIj3vnjLCnJDRqH%2BqAHw%2Fi9h7HP5BoyTXhg1ykmcb53%2FzNf1xKl1JSex7cUx1XiYXiIR9uinmoQPB%2Bq2xaie5BHf441fioOlD%2FPnX4I6G7SvutrOOfyPqXRJXLiir%2FElH9U5niSPpepsjnyhT975OpC8TewOvH0PoojP4IZCbG9F8WRIq%2FF0SSTVms6fLEPRgm7%2FEswWX%2BfYL7fHHCc3ANx58tT3cW3gdDhrMPDtF9N7l%2BaLi668h223W9pG9AGB7OMxQ5Cl006QnXyXTnb45xHhxdEOhjOLpQ2%2Fwem%2F4qHP2QCYfj9%2FhxmewkVZw7%2FbtGG5HCKfa5MMVmYGpqWiZMaTgGmixlNcK2TS9A4ijbpo4MfRWOELLSBTRJF11bu44oSum422uCA3Y3ilN5Y%2BE4M5sIuSmEq65dkt7I0k3%2BO%2Fp3LU2Urxc3KpVfXaxU%2BfdeVO%2BP70xU9PZGJCg3Rc5qe1fivo58Vb694b7Gd9T7%2Fga2guZoN66IN4JUcE1bXp0XNzk4xpI8yLg1kGJ6%2BTBy5xi5dcdwbx%2F4bR7104RgHw5vW9wZZgjQE6E2d77s3QNs%2FEBnocNfRGxfd51QXMr24M62y407g8DOabfujKTcH7DcOAB%2BT1kh9yWBxR16urXk2MAMI0cHzqlO23SsU5YRhsgBWkJVEqISAdUAPjB%2FOe4S2MFvOUSprmtB1BIN2dGUCHbepY7RDRj%2Fn2LLsNY4L0Ec7qZrzmB0Ay%2BfjOP9uMm%2BepYyGssDJDQiUM7s0jljbWqanZXquCrIycFZYlGBi2xTBbD95wGbqgGFU%2FKAjWRIntRSEEX9BQxgiNTEGaMyGIBTORhAfeA%2FfQcD4OUNDHwIC7BzY%2Fe0Zm7hTx39rF9U%2FJQFa7vJfQ54iPFSCSHKCSr9Wkb%2BL8VUbNMNDWAFv4DpBHJ4vMcS%2FjtYAhkrXluAwxiasn11OkPBi%2B12hCk2WIbnn4obhu46AaLzgKCMswkH26QF%2BD%2BSYfyNriBRpgU8uaIrX4GopBGEdEj6ynHBq30dOLI3ck82Yi5yFVj1T8eqb9geTzOXbvHyXObWRMKeAHAclQI4NgfgsC%2Bs2TwGcFnvNP7fOLt%2Fgc8Gy066SeqHfDbv0VbP12XHDE5rT99gJDe3ns9MWhx7%2BwYPFTZtwRPPsWnv4hHem4%2F%2FDWOXTE14KTxn%2FZ7M4YLnGLtZT28S7XDrnc8YvkN3vQa%2BDQI0RX7f9v1nW5w5TF8YoQW4%2FF0HGJ4oYOI8Z7MOsIuD%2FZu2YXZJ%2Bb%2FSELwG9tBvX13oeYHxyGSNxyQg7NUrNjxH3AkdTVP3VbwTZvPAqgr%2F6EpiwhDnGD6E2vcC8Hdk8Bvzjztj5Rr%2B%2BHW79ksxn4mPP9vQO1Pma4EfEnL6L8%2BQ7uybG8FMqAH13q8ThUOCw3DK28fveyW3k81zBGZom8hnhylAh%2F1wRIuE2MgA66uZpPjfauP5nkYCS6LTLiYgU8zZCrPq78%2FZ%2FvbUjKFTa5EYnjHFiLzQaor6Y2z6g3WICfBlB4qY%2FfgSZWAgskDav32vsk8dO8ViZQESBUhcAw8uIMFn52v0yxYrs9uNsBz%2FTRFd%2BfZp0Djx9ODKd8LCsXtWYdKC8Ly5FvElX17Fj1QL%2BLHVqpnAKVx6hUvvX0Yrf9elx6XiWS4u%2F7t4lhe59Ipo%2B0f5gP0ZPmBTswya%2BxoffHs7Ev%2FxLhAOT0dhPTe8Oie%2Beqgake0DHdhOQTYF2RRk84zYorzt50%2BKLcrqNFeQzRec4Hls85o9qxlUJ1MsQKTPHHji7IPPCENNdo4wpWf4Bb4X%2BF7g%2ByPxAeR9fACBZ%2BMD%2BBfBO1n4lh6Ed%2FKHnEs%2FCO9k1rnUMmHH%2BoYcBQW8F%2FBewPsj8E6k4J3OCf96lfmexKrfqPQiCsK3MvlWohzN1C0AtbiYmxfKXSj3I8pN0vkuuE%2FPavvoYLivKjf1qK32Hx3b%2BTObfCjyZ8w7Iu2TZflXmXdU9gS%2F4SEIATrEzioYoGCAggEeYQA2pcB5S4GvMu%2BSsLSCAV7AAE8PYv77DJB3wGAmeqSFjiO2UKBzETNSEEVBFM%2FyA%2FB4Ss%2BzRwS8ys1LMQVPvIwnfiiqBE8bGtTreCIbyDEAwan%2BwldUEEBBAI8QQPpwSzLPV%2FSkmcJ7O02GZniMHD3wfDd0Lde2z2defmejmahCDUc6RYjpai%2B7kL91ZkiBIAWCFAiC1Agnft8bAZezBV4QePyVvSl0dkbZNoN4RQlbolUmoQxxAWvKhg8CBXawaoSFAVGof6H%2BD6g%2FT90bEJdDhG6VP%2B8zRE85SKSYQr7uvIQfmkJybHr789cOBfnTjQk8yd61Q5%2FDEN7bmPDH5YlUeeqT8lSqPHtX%2FvvfbcnOl6vQoJajZWAjNiwYr2C8gvEeYbzUPjs6h%2FBedXJWQqQF4T2f8JgfCp7l0zvxvugz%2FWPCw1MEQ3xCSH9aHvsmQTLPJbxk%2FG4Ir%2BRAojOgmMYHJAF%2FjT4qWvBewXsF7%2F0577GpsEKCzXHz0K8iPiKjtwXxPUB8yRjeEd8PhRWydOorq3zqYzrP%2Bspqam8qwX28Bf2Py6d3v3yyxT2tOOSTv%2FrKZGMocw%2FvKjiv4LyC8%2F5srpd2ThE5%2B2Tyjk1%2FCucVgZSv47wfCqQsOO9FnJdd4xOhoCumrRWMVzBewXgPMx5%2Fz3h4zpcxX%2Bfe5ArGe5l784eOfmETs%2BVyyH%2BqiueFhCavdOvx8xVghsUKV8EBBQc87ulLfVk9b4XrVbvH2KwXvxOfF4ugC74yUArjrlDsQrEfU2w%2BtXRN5Wj2q9wZiSulONbpI9ONz1pu7E8tTGPpzTwvO9WJ%2Fa90bT3yBTD4FP5hdm46vpjfXlxviq9%2B9rth7E850d4JrXu6E41OtcN%2FHNGQLs%2Fgn5RPncmfzKNznWLZu1Mz8%2FQBzmfR%2B3PtfG9fTkMD6Zh5aIjBf53TUU2qEU%2BysPP%2BndPTfGvTzvkb9I4bQvV14i%2FQwxZ%2FOXLc1K%2FgtqELlNA3A1ps4ylMw8I0fMQ0pFLowmYtQ%2BIHvxXPFp7Ap9A2lbP2xf6QJzB9SihFv2xzOJv1BHZM%2BM7IGYjwtGQ6TuE3KMihIIeHyCF9XCiTfMvzJ%2FwGiZ1bUMHzqYD7IdcCey8%2FX53APcAEXNZ%2F3HACKCIREo%2BCAwoOKDjgQQ5ILQpxORzwqlWh5MPxBQe8gAN%2BKvz75zggGxBdA8rJaRVpRVxAQQEFBTxGAZ8vH77qtECuOOrhOQzA5jDADx31QKQdQsTXgqEfoYDs6QfCBDEAn5WjAv4L%2BC%2Fg%2Fwvwn4oPIJks%2FL%2FqpB%2BuWA94Hfz%2F0HrAT8J%2Fdj1AmEwK5C%2BQv0D%2BZyB%2Fzimxr0J%2BvnD%2Fvwz5%2BR9y%2F2eOCU8LxvOQn8%2F6%2FytmHMDEHEFQ%2BH4KCigo4BkUkPfBd%2B5VFJD3iZg0J2SA%2BUaLU10X%2Bq4FEg3TwFKO4m%2FKfKpka1PTYtVfuk4oymvTRp1RB%2FYWoHLnjDOf4Pj5OttQHGMpyKqlxw%2BWLXBLcFfiuguBfzwIOQkovlxcUeKjkOJ7Yns6PeWwUxJy%2FCk73Yhg3vlDSdo3SYzmUkbQF8PjMxUx7%2Byl%2F34kb0ZzLgty%2F7WbLh6Ln%2F%2BSyOZs1cAx4mcsqswhgsTXYuuyx%2B9y9xUx6dMInymMREYYL3v71rIV2SbwiwiNwkQrTLSHTDQ2vcLO50RoPOk7DFnlxrPKPQC6bIPsmyWcZAamkih56jiZTO1fMAETIECfelBN%2B3%2FsyaqtGp5QkXayv9ksMGWPaV4bfRymOdmPOuN9Ozpw8HLFypa47s%2Fr230FSFO3WWOmvK9xXVKBjyWSvuZJZfR0sBcJkSBZGf5ZQvEV%2FZExoqOxZvISwUnRbMRD2RSkXo3dsyQsLJAzVIytHzhpz%2FJLtjyyIb4KPjR3xN6ChJnC3pgZlaY0Hjpcb8aMWr0FzJuRO5ryeBI%2BrbCkRkajK9ntbRWKibDZsWqZa05aat2MSk3OE%2BcdCRehAgnW1MNAc2EvhXnrCMRKSTJaR%2FStRCFADW6HK0aYOxolqyHlh8P2hgFoe86qyUqriliWykIQoDce7xTaqyoi7neHpWjpq9psjR2ssmTBHpR2TbsqCHNGi6rUpinrDWHtV7otQW7p3dbAwNprvTpfqJXBxuR320OtEvL9km0oZMUMNkyTJqa9eblTcycBtxgfhq0V1TSBUdqWF0RPqZgj3y0NOo554Cz4di7q9%2F1i0%2BqVx35vrS3aXilkJzMCL5V6VnmiRo2qPm%2BjLUZQBsTW6Ljq7Kd6KZpWfLBsGsZytwNNv7ZaxPJlTTbkiggb4pbbWahza4qPsSP4Y9gZVVRiwRlLyIFVqVKKJMEO19XqalZCg9o%2BMgpUekF2%2FR5d66NhLXsAn478xtGfWqWxPbTnu53X77vzaGu1jFppLE1cpaV18HbNW8gdSfGWm%2B6gf6SGZnvR1Md%2Bl1n7EVZxev0qlHYx6LpNz1qOZ%2B0Wv5oKDkkFYD%2FbtCpOdUMfqpbT84TyatpZRm3xGM4JkarOD6OJh8mRsZqLmMQ0B%2BF6olidloPezdrWp5yBOWsSNzclfI5kaccYeqfk99cHWbYWfd3VO5BDnMiySsJGbkbydt6DOaqwGAhGJRBGQ89Z7S1WPDAy1pnO1r15k5%2BoTse2Ans1Iw%2FAFajVVLYb%2Bwo%2BXIiOu7cHfdRPmyPbWRKcvDB6oGFP5u3uIhzt3HZfrxlbf9BZlTq21%2BBG8j7YlD2G7CnRMph06uijTcLOF%2FEw7JNaAw1a1aK8mmk53cp4uVRLjX1zJpcYkSnV%2FLB8IFlpb6385oHAaa4rinvQ7BgBnEutRxo%2Bm9BAsvGl1FREdeEsB63hCtYvOCIa1BqEFWFB6sKE41ymzik%2BjiONMLhDxVJQh62Bd1COPr2Ev6M6NosGex5JJLds4Qe0V%2B20va1uTZFG%2B0yFUlF%2BqY8wiaz8b76xcD8FfSPIEk%2BxFJsmDUNWjcgHNWTyVKg0ZeRQyt3EtOSryHJS0ZZHrCJHEO9jwySepCZ27GmXHkEjAqbRq8B%2FUIHgt%2B66sC3ZM4PfKrRbUIYaxEXF5akJ%2BPOuEZoQbprJ4v6VI77%2BfTKSv58r4djvnDP4CJr%2BnfgYb5kNJ7hL%2BvfYjXmEf3zIPwFZhfwzs0VK4pget0dyFBiHvWvp0XTMmltS205L4b62HmyXrZ67nmClDi9pHViw5C2XK9iK0HP83cFhFPR72yYhaSFUr0unv9KCGiKl0eYrBEvSkeGQjSTumAXSRCds1dsHdGeFhP9yW2d%2FElrnSMcVCJFznLVZvrtsk3wwQrxGUgLgOYI9mIgA67Rn9ckDkvUlapfeg4qLFBPr7SqBIy67vBH1%2FMXW0myW7eFHhumdHk3R9tNRCCsRQrPEYfbUgj9HDIMaxaQeix4LvZSk0b3jnj9I6kSUoUgIlVmJ77n4im11OCfiy6GkUAMGW0fEcjUNPKRi9WXYODJ8ZEhbYljmFJJyG6ZzaBxIpj6r8pg8WLE0hGxxWiX23JQcDJyatiMBQ3ojssLyqxFQlCByja3amYLRIYxMCavZBJR18TifMS2Or0vBFkrtKhxrItJ2jQCInTV2oO3oJRETNSVVDdaYkeygPnCmCwUmjji22aAcbuRgeH0Q%2BWyjrusrRt%2FiyHLoGRq%2BrMJ3dLdHrUlRSwp2ihgNfJYajmHypLdsSpbJbTYsagx1YxMMalva87sOLZIGwvYKzZE1GclItVuu2kCvEZ7QYNjtZE9rFdHsy9VjY6F3RfKwGtmrUk%2Bq1s1my2s3K1XMkpvUQjLY%2BvFQI%2BrH1U4ymHar1FLHhFxrSlVyQqv9XssTD2p5fdSxFjOrL3Q4UmX%2B2B7vld68V9fFsLSug%2BhIgTAQ6GkFjolwEA7jkiTiCGKHLTlkSkx9YK36ht7iKu2pvdG7Qa8liq2mWw5aYnXXglUYq2oLWS%2FNXmcCdJzrg12zJo7bdEusRZN5v7Ob7UZhPJC1kTwHTSTUZXu1o0HZVrnKviz5u6NZnhh7rWaW6ootjMrCerFiA5KCubuwBVwesk1ACRW2WWrVo5o81HFy2NbMWM18Zjyt2mMXH5ao5lTvVyi%2F2xrq60F%2FUeFhfyBLrjmqEoNNB7jjTXfV3%2FS6OutGdp%2FXWzV3yK0qTWVqRWupqrX0g1qTDL%2B5s1iuaUy7o0bN3QmrjgVkvsWVKS1yRw0tbG4q05FIm7P9blhR6IaojldzVvB2%2FfXELjUFui1NuY4xdAar6WDruTUbU9mSXpIso4a6eo%2FU0cMwgTzuPYewq62htTVb9kar21WT2KqtWs1vRbBQtxXtebpOlgiVnA1HzbbfbA1C9zjiFAbvikNcrkuq5ZOLqU5smtqSbzV7lojRHhEZnT1Wk0ZMlQpIf1cNAqilA3ZQcnuY7botV%2B4dzF3f6DB1i8dW7JHorUrSqj2vawYrOPrW25fDYKBMZ7O5L%2FWUfr1rrkvOUaofp%2Fim0cEXzblY4bCFImFTe9cP9Kjjbe1Jjxopk6M0jTxDmQR0n2E6Pjsz2C188VZX3vmtTnXejQ5YCNYepmu7ktgf4RbWlNSqMzfXOr1omXxj5et9NHauoRKdvjAae3aHOpblRcU%2BDvvi3mzNorm2tii5vsfGfcNje0dV60qt9TEwy2O77IUVpbdpTNdNf9QellcbaxhaVbpud3W6Dygzsjq9fp8bj6NOrcLZbTzqW0fA7CkDKve8M66WSlDEOtSerI8aYCOXxwfQ8getCn4QO1jgtmtV12x2iGEUYX0xdLY8WacUMBbr09lSb%2FSXsuFyPXqLLNvl1qj29G60xcuHQe%2Bws2o94uAvYRPTScMp64q%2B2M7pckUVpqG6nq3p42HXECHSivzBZruwG%2Fp2Zc57Tabsbhb%2BatNol0s0Bw0WWexYswYCaY8pW4hUWsp8fPCapH8oYX1jbW4YaqfYM769X3H1g9UtW3Jvq4HBhMc1gRFFnACr0STEBz3jYJG93WSyXCg07%2BxmoLbERnKoWtjROwo4h48JaCkJ003EdARJGk83E2SClafjSWXUINRppz1pa%2BJuXLWH%2FsHjlQnFtUblzghoHRnN3RrjTWnqebs2KVdxaaXJfo8k8fpWX3vTMc3j7trVl8eYD6WazAYTTTKjvhYAG8HGYLeY8aYHlu56tg198ljphsMWVa3pQ2KybwMVHUMwDRcr%2FMBPPWWzmRH7ynxDektvpdcn7NpfLoSZzi4DfFI52j42PGwCvoLVd9SSmHUmCN5HcAolzOr8QoVXaM%2BrOJz3tm0fzRiGg9g61Avr8BnWIUncn66L53g86CRy%2BM7jQZFPsguzcaZT9D1JUz%2BdjdFwDNnOOYoQvmB478b8%2BupTnj%2F06nnC%2FmEDnSPfccvnvkjkMlk1458lGzSZ8pBj2QXLlx1ketksdTdfYOLFPQO%2FE4XEi7iWfd10fsUuazgIGObt4664%2BkEZHf1NnGqnytBcFU%2BykkQvnYA6GFa5lNX7Nq9LlzfN5Dwbuv%2FXyRONHg1n33m2OMC6rADfkkOgu37s2oeddT43Bg5eAMUEaMCJP8hjgHXs%2Bz9GgbyGP5dyEKCEy6udnvv%2BXZDRc037VK3ylMWFD7K042UrAyoVbPKfrEBP0YbLJziTxUs6xzect35%2FkeTvqUM2Kud9mPymq5jI7v7KyAm8xfSC98D0dnHpX0O490bFGYlzZOsyVA9%2FQ57ICQ0h83aG4um1xsdkK29p4ClQK5wOvkLnVn2Gt18ATe490LwH6Ucq%2BiKyn9pLUBZbA8MHfnyCFzom5RaJk2dS%2FBz4LVD5PXXKsXWeomHkFzTsaeiN3H8ukpjrMj8cIKPjauhguOr%2FAw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E" background-interactive=true}
 

@@ -72,7 +72,7 @@ view_html: slides
 	$(HTMLVIEWER) "index.html" &
 	
 slides: setup
-	pandoc -s -t revealjs -V progress=true --template='custom_title_page' -V margin=0.2 -T 💡 -V slideNumber=\'c/t\' --slide-level=2 $(EMBED_RESOURCES) $(THEME_CMD) $(TOC_CMD) --css=$(CSS) --reference-location=section "$(INPUT)/$(MAINDOCNAME).md" -o "index.html"
+	pandoc --from markdown+raw_html-markdown_in_html_blocks-native_divs-native_spans -s -t revealjs -V progress=true --template='custom_title_page' -V margin=0.2 -T 💡 -V slideNumber=\'c/t\' --slide-level=2 $(EMBED_RESOURCES) $(THEME_CMD) $(TOC_CMD) --css=$(CSS) --reference-location=section "$(INPUT)/$(MAINDOCNAME).md" -o "index.html"
 
 beamer: setup
 	pandoc -s -t beamer "$(INPUT)/$(MAINDOCNAME).md" -o "$(OUTPUT)/$(MAINDOCNAME).pdf"
