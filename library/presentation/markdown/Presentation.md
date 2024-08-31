@@ -1,7 +1,7 @@
 ---
 title: Wissensaustausch im Wandel
 subtitle: Wiki für die Bücherei Nofels
-author: Elisabeth M. Getzner
+author: Elisabeth Getzner
 institute: <img src=figures/bvoe_logo.svg/>
 date: September 2024
 keywords:
@@ -13,8 +13,8 @@ description: Projektbericht im Rahmen der Ausbildung für ehrenamtliche und nebe
 category: Projektbericht
 abstract: Planung und Einführung einer Wissens- und Informationsdatenbank (Wiki) für Mitarbeiter:innen der Bücherei Nofels. Es werden die Anforderungen an diese Software geklärt und die technische Umsetzung beschrieben.
 progress: true
-margin: 0.15
 theme: moon
+margin: 0.2
 slideNumber: \'c/t\'
 slideNumber: true
 photoCredit: © Verena Knöpfle
