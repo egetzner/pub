@@ -76,6 +76,10 @@
     margin: -20px;
     left: 0px;
   }
+  
+  .column{
+    align-content: center;
+  }
     
   .citation {
     font-size: small;

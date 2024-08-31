@@ -26,9 +26,10 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 # Ausgangslage
 
 ## Unser Team 
+- kleine Stadtteilbücherei
 - 15 ehrenamtliche Mitarbeiterinnen
 - 1-2 Personen pro Dienst (meist die selben)
-- Zuständigkeiten verteilt
+- Zuständigkeiten stark verteilt
 
 <!--![Altersverteilung](figures/age_distribution.png)-->
 
@@ -55,8 +56,8 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 </ul>
 <li>Informationen schwer zugänglich</li>
 <ul>
-<li>nur vor Ort zugänglich</li>
-<li>schwer zu durchsuchen</li>
+<li>nur vor Ort</li>
+<li>keine Suche</li>
 </ul>
 <li>Information nicht nachvollziehbar</li>
 <ul>
@@ -73,42 +74,15 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 - ungleicher Wissensstand
 :::
 
-# Ich hab's! {background-image="figures/wickie-stars.gif"}
 
-<span class="highlight">
-Ein Wi(c)ki(e) für die Bücherei Nofels
-</span>
-
----
-
-## Was ist ein Wiki?  {background-image="figures/Wikipedia-logo-v2.svg" background-opacity=0.1}
-
-> Website, deren Inhalt von Besucher:innen nicht nur _gelesen_ sondern auch _verändert_ werden kann \todo{CITATION}
-
-Beispiele
-: 
-- Enzyklopädie: [Wikipedia](https://wikipedia.org "Wikipedia")
-- Sachbücher: [WikiBooks](https://de.wikibooks.org/wiki/Hauptseite)
-- Anleitungen: [WikiHow](https://www.wikihow.com/Main-Page)
-- Pop Kultur: [Fandom](https://www.fandom.com/), [TV Tropes](https://tvtropes.org/)
-
-## Wiki in Organisationen {background-image="" background-opacity=0.2}
-
-- Erfahrung & Wissen dokumentieren
-  - Zugriff auf bereits existierenden Lösungen
-- gemeinschaftliches Arbeiten (Kollaboration)
-  - _Autor:in_ 👤 und _Zeitpunkt_ ⏲ ersichtlich
-
-![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence)](figures/confluence-review.png){width=50%}
-
-
-## Probleme {auto-animate=true}
+## Probleme {auto-animate=true visibility=hidden}
 
 <ol>
 <li>Nicht jede:r hat den selben Wissensstand</li>
 <li>Informationen schwer zugänglich</li>
 <li>Information nicht nachvollziehbar</li>
 </ol>
+
 
 ## Ziel des Projekts {auto-animate=true}
 
@@ -126,6 +100,7 @@ Beispiele
 <li class="fragment fade-left" data-fragment-index="3">Änderungen stets nachvollziehbar</li>
 </ul>
 </ol>
+
 
 
 ::: notes
@@ -150,6 +125,32 @@ Beispiele
 - Wie aktuell ist die Dokumentation?
 - Können Inhalte "verloren" gehen?
 :::
+
+# Ich hab's! {background-image="figures/wickie-stars.gif"}
+
+<span class="highlight">
+Ein Wi(c)ki(e) für die Bücherei Nofels
+</span>
+
+## Was ist ein Wiki?  {background-image="figures/Wikipedia-logo-v2.svg" background-opacity=0.1}
+
+> Website, deren Inhalt von Besucher:innen nicht nur _gelesen_ sondern auch _verändert_ werden kann \todo{CITATION}
+
+Beispiele
+: 
+- Enzyklopädie: [Wikipedia](https://wikipedia.org "Wikipedia")
+- Sachbücher: [WikiBooks](https://de.wikibooks.org/wiki/Hauptseite)
+- Anleitungen: [WikiHow](https://www.wikihow.com/Main-Page)
+- Pop Kultur: [Fandom](https://www.fandom.com/), [TV Tropes](https://tvtropes.org/)
+
+## Wiki in Organisationen {background-image="" background-opacity=0.2}
+
+- Erfahrung & Wissen dokumentieren
+  - Zugriff auf bereits existierenden Lösungen
+- gemeinschaftliches Arbeiten (Kollaboration)
+  - _Autor:in_ 👤 und _Zeitpunkt_ ⏲ ersichtlich
+
+![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence)](figures/confluence-review.png){width=50%}
 
 # Projektplanung
 
@@ -181,21 +182,17 @@ Beispiele
 
 ## Anforderungen und Erwartungen
 - Einfache Bedienung
-  - benutzerfreundliche Texteingabe (WYSIWYG[^2])
   - übersichtliche Darstellung
+  - benutzerfreundliche Eingabe
 - Arbeit von zu Hause aus
-- Benutzerrollen
-- geringe Kosten
+- Benutzerrollen (Schreib- & Leserechte)
+- geringe Kosten 
 - wenig Wartungsaufwand
-
-[^2]: _What You See Is What You Get_
-:
-Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
 
 
 ## Ideen für Inhalte {visibility=visible}
 
-![Ideen für Wiki-Inhalte](figures/mindmap_content_white_background.png)
+![Ideen für Wiki-Inhalte](figures/mindmap_content_white_background.png){width=80%}
 
 # Technische Umsetzung
 
@@ -209,23 +206,19 @@ Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
 
 ## Entscheidung für ein Wiki {auto-animate=true}
 - Wiki-Systeme mit Anforderungen vergleichen
-  - [WikiMatrix](https://www.wikimatrix.org/) vergleicht 82 Wikis
-  - [DokuWiki](https://www.dokuwiki.org/dokuwiki) vs. [BookStack](https://www.bookstackapp.com/)
+- [WikiMatrix](https://www.wikimatrix.org/) vergleicht __82__ Wiki-Lösungen
+  - zwei einfache gratis Wikis:
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-
-![DokuWiki](figures/dokuwiki_2.png)
-   
+![[BookStack](https://www.bookstackapp.com/)](figures/bookstack.png)
 :::
 ::: {.column width="50%"}
-
-![BookStack](figures/bookstack.png)
-
+![[DokuWiki](https://www.dokuwiki.org/dokuwiki)](figures/dokuwiki_detail.png)
 :::
 ::::::::::::::
 
-## BookStack {auto-animate=true}
+## Unsere Entscheidung {auto-animate=true}
 
 ![BookStack](figures/bookstack.png)
 
@@ -233,12 +226,11 @@ Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
 
 1. Hosting beantragen bzw. installieren
     - Kosten: €5/Monat
-2. Benutzer importieren
-    - jedes Teammitglied hat eigenen Benutzer
 3. Inhalte importieren
     - sortieren & strukturieren
-4. Rechte verwalten
-    - wer darf was?
+2. Benutzer anlegen
+    - jede:r hat eigenen Login
+    - individuelle Schreib- & Leserechte
 
 # Ergebnisse {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-opacity=0.1 background-size=auto }
 
@@ -246,7 +238,7 @@ Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
 
 ::: {.box .right}
 Startseite:
-die wichtigsten Inhalte und Links
+die wichtigsten Inhalte und Links auch ohne Login sichtbar
 :::
 
 ## {background-image="figures/wiki_screenshots/books_important.png" background-size=auto data-transition=fade}
@@ -304,26 +296,25 @@ Bearbeiten mit Vorlage für Sitzungsprotokoll
 # Reflexion
 
 ## Beantwortung der Leitfragen
-## Antwort der Leitfrage {auto-animate=true}
 
-### 1. 👓 __Lesen__
+## 1. 👓 __Lesen__
 - zentraler, durchsuchbarer Ablageort
 - gesteigerte Wertschätzung der Dokumentation
 - offene Arbeiten identifiziert
 
-## Antwort der Leitfrage {auto-animate=true}
-
-### 2. ✍️ __Bearbeiten__
+## 2. ✍️ __Bearbeiten__
 
  - Schulungen 
- - einfaches Bearbeiten
+ - einfaches Bearbeiten (WYSIWYG[^2])
  - Angst vor Fehlern nehmen:
-    - Versionierung / Inhalte wiederherstellbar
-    - eigene Seiten zum Testen der Eingabe
+    - Versionierung: Inhalte wiederherstellbar
+    - "Spielwiese" zum Testen der Eingabe
 
-## Antwort der Leitfrage {auto-animate=true}
+[^2]: _What You See Is What You Get_
+:
+Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
 
-### 3. 🫰 __Nutzen__
+## 3. 🫰 __Nutzen__
  - derzeit: Nutzen > Kosten
  - Evaluierung nach 1 Jahr
  - Alternativen: 
