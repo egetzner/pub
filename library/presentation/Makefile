@@ -12,8 +12,6 @@ DATESTAMP_AND_PROJECT = ${DATESTAMP}_${PROJECTNAME}
 # Define the web browser to use for viewing the HTML
 HTMLVIEWER = firefox
 PDFVIEWER = evince
-THEME=moon #robot
-#moon
 TOC=false
 CSS='themes/custom.css'
 
@@ -50,16 +48,6 @@ else
     EMBED_RESOURCES =
 endif
 
-ifdef THEME
-	ifeq ($(THEME),robot)
-		THEME_CMD = -V --customtheme='themes/robot-lung.css' 
-	else
-		THEME_CMD = -V theme=$(THEME)
-	endif
-else
-	THEME_CMD = -V theme=default
-endif
-
 ifeq ($(TOC),true)
 	TOC_CMD =  --toc=true --toc-depth=1
 else
@@ -72,7 +60,7 @@ view_html: slides
 	$(HTMLVIEWER) "index.html" &
 	
 slides: setup
-	pandoc --from markdown+raw_html-markdown_in_html_blocks-native_divs-native_spans -s -t revealjs -V progress=true --template='custom_title_page' -V margin=0.2 -T 💡 -V slideNumber=\'c/t\' --slide-level=2 $(EMBED_RESOURCES) $(THEME_CMD) $(TOC_CMD) --css=$(CSS) --reference-location=section "$(INPUT)/$(MAINDOCNAME).md" -o "index.html"
+	pandoc --data-dir="../pandoc" --from markdown+raw_html-markdown_in_html_blocks-native_divs-native_spans -s -t revealjs --template='custom_title_page' -T 📚 --slide-level=2 $(EMBED_RESOURCES) $(TOC_CMD) --css=$(CSS) --reference-location=section "$(INPUT)/$(MAINDOCNAME).md" -o "index.html"
 
 beamer: setup
 	pandoc -s -t beamer "$(INPUT)/$(MAINDOCNAME).md" -o "$(OUTPUT)/$(MAINDOCNAME).pdf"

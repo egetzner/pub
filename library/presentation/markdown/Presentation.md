@@ -1,8 +1,8 @@
 ---
 title: Wissensaustausch im Wandel
 subtitle: Wiki für die Bücherei Nofels
-author: Elisabeth Getzner
-institute: Bücherei Nofels
+author: Elisabeth M. Getzner
+institute: <img src=figures/bvoe_logo.svg/>
 date: September 2024
 keywords:
 - Wissensmanagement
@@ -12,8 +12,16 @@ subject: Wiki
 description: Projektbericht im Rahmen der Ausbildung für ehrenamtliche und nebenberufliche Bibliothekarinnen und Bibliothekare
 category: Projektbericht
 abstract: Planung und Einführung einer Wissens- und Informationsdatenbank (Wiki) für Mitarbeiter:innen der Bücherei Nofels. Es werden die Anforderungen an diese Software geklärt und die technische Umsetzung beschrieben.
-#background-image: figures/chuttersnap-AG2Ct_DqCh0-unsplash.jpg
-#parallaxBackgroundSize: 6016px 4016px
+progress: true
+margin: 0.15
+theme: moon
+slideNumber: \'c/t\'
+slideNumber: true
+photoCredit: © Verena Knöpfle
+title-slide-attributes:
+    data-background-image: figures/fotos/bib_magazines.png
+    data-background-size: stretch
+    data-background-opacity: 0.1
 ---
 
 # Bilder {data-visibility=hidden}
@@ -23,12 +31,12 @@ abstract: Planung und Einführung einer Wissens- und Informationsdatenbank (Wiki
 Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8660361">rui line</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8660361">Pixabay</a>
 
 
-# Ausgangslage
+# Ausgangslage {background-image="figures/fotos/bib_outside.png" background-opacity=0.1}
 
 ## Unser Team 
-- kleine Stadtteilbücherei
+- Kleine Stadtteilbücherei
 - 15 ehrenamtliche Mitarbeiterinnen
-- 1-2 Personen pro Dienst (meist die selben)
+- 1-2 Personen pro Dienst
 - Zuständigkeiten stark verteilt
 
 <!--![Altersverteilung](figures/age_distribution.png)-->
@@ -37,7 +45,7 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 - 🗒️ Handschriftliche Notizen 
 - 💬 WhatsApp-Gruppe
 - ✉️ E-Mail (Protokolle, Veranstaltungen)
-- 👥 Teamsitzungen (alle 2-3 Monate)
+- 👥 Teamsitzungen (alle 3-4 Monate)
 - 🗃️ Anleitungen (gedruckt + digital)
 
 ::: notes
@@ -143,16 +151,16 @@ Beispiele
 - Anleitungen: [WikiHow](https://www.wikihow.com/Main-Page)
 - Pop Kultur: [Fandom](https://www.fandom.com/), [TV Tropes](https://tvtropes.org/)
 
-## Wiki in Organisationen {background-image="" background-opacity=0.2}
+## Wiki in Organisationen
 
 - Erfahrung & Wissen dokumentieren
   - Zugriff auf bereits existierenden Lösungen
-- gemeinschaftliches Arbeiten (Kollaboration)
+- Kollaboration: gemeinsames Arbeiten
   - _Autor:in_ 👤 und _Zeitpunkt_ ⏲ ersichtlich
 
 ![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence)](figures/confluence-review.png){width=50%}
 
-# Projektplanung
+# Projektplanung {background-image="figures/fotos/bib_wall_of_books.png" background-opacity=0.1}
 
 ## Leitfragen
 
@@ -194,7 +202,7 @@ Beispiele
 
 ![Ideen für Wiki-Inhalte](figures/mindmap_content_white_background.png){width=80%}
 
-# Technische Umsetzung
+# Technische Umsetzung {background-image=figures/fotos/bib_computer.png background-opacity=0.2}
 
 ## Technische Landschaft
 
@@ -207,7 +215,7 @@ Beispiele
 ## Entscheidung für ein Wiki {auto-animate=true}
 - Wiki-Systeme mit Anforderungen vergleichen
 - [WikiMatrix](https://www.wikimatrix.org/) vergleicht __82__ Wiki-Lösungen
-  - zwei einfache gratis Wikis:
+  - Zwei einfache freie Wikis:
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -219,8 +227,7 @@ Beispiele
 ::::::::::::::
 
 ## Unsere Entscheidung {auto-animate=true}
-
-![BookStack](figures/bookstack.png)
+![Moderne Oberfläche, einfache Handhabe, Organisation in Bücher und Regale](figures/bookstack.png){width=85%}
 
 ## Installation
 
@@ -234,7 +241,7 @@ Beispiele
 
 # Ergebnisse {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-opacity=0.1 background-size=auto }
 
-## {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-size=auto data-transition=fade}
+## {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-size=auto}
 
 ::: {.box .right}
 Startseite:
@@ -244,7 +251,7 @@ die wichtigsten Inhalte und Links auch ohne Login sichtbar
 ## {background-image="figures/wiki_screenshots/books_important.png" background-size=auto data-transition=fade}
 <img class="border bottom right" src="figures/mindmap_compact.png" width=40% />
 
-## {background-image="figures/wiki_screenshots/handbuch_1.png" background-size=auto data-transition=fade}
+## {background-image="figures/wiki_screenshots/handbuch_1.png" background-size=auto}
 
 ::: {.box .left}
 Inhaltsangabe & Navigation
@@ -257,13 +264,13 @@ Jahresübersicht 2024: Seiten zur Organisation der Bücherei,
 Sammelbecken für Arbeiten und Ideen, Sitzungsprotokolle dieses Jahres.
 :::
 
-## {background-image="figures/wiki_screenshots/suche.png" background-size=auto data-transition=fade}
+## {background-image="figures/wiki_screenshots/suche.png" background-size=auto}
 
 ::: {.box .right}
 Volltextsuche über alle Inhalte
 :::
 
-## {background-image="figures/wiki_screenshots/edit_protokoll.png" background-size=auto data-transition=fade}
+## {background-image="figures/wiki_screenshots/edit_protokoll.png" background-size=auto}
 
 ::: {.box .right}
 Bearbeiten mit Vorlage für Sitzungsprotokoll
@@ -271,13 +278,11 @@ Bearbeiten mit Vorlage für Sitzungsprotokoll
 
 ## Nachbereitung
 
-::: incremental
-- Mitarbeiter:innen __schulen__❗ 
-   - steigert die Sichtbarkeit
-   - mindert die Angst vor Fehlern
+- Mitarbeiter:innen __schulen__! 
+   - Sichtbarkeit erhöhen
+   - Weniger Angst vor Fehlern
 - Rechte und Benutzer pflegen
 - Aktuell halten und verwenden!
-:::
 
 ::: notes
 
@@ -293,7 +298,7 @@ Bearbeiten mit Vorlage für Sitzungsprotokoll
 
 :::
 
-# Reflexion
+# Reflexion {background-image="figures/fotos/bib_doors.jpg" background-opacity=0.1}
 
 ## Beantwortung der Leitfragen
 
@@ -303,16 +308,11 @@ Bearbeiten mit Vorlage für Sitzungsprotokoll
 - offene Arbeiten identifiziert
 
 ## 2. ✍️ __Bearbeiten__
-
  - Schulungen 
- - einfaches Bearbeiten (WYSIWYG[^2])
+ - einfaches Bearbeiten
  - Angst vor Fehlern nehmen:
     - Versionierung: Inhalte wiederherstellbar
     - "Spielwiese" zum Testen der Eingabe
-
-[^2]: _What You See Is What You Get_
-:
-Aussehen entspricht dem Ergebnis (wie z.B. bei Microsoft Word)
 
 ## 3. 🫰 __Nutzen__
  - derzeit: Nutzen > Kosten

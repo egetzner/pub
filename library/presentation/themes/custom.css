@@ -1,30 +1,3 @@
-  .line {
-    background: purple;
-  }
-    
-  .subtitle {
-    font-size: larger;
-    background: #FF4081;
-    color: white;
-  }
-  
-  .author.institute {
-  }
-    
-  .date {
-    font-size: smaller;
-  }
-  
-  .footnotes {
-    font-size: smaller;
-  }
-  
-  .highlight {
-    background: #FF4081;
-    color: white;
-    padding: 5px;
-  }
-  
   img {
     max-width: 100%;
     max-height: 100%;
@@ -44,11 +17,58 @@
   }
   
   .reveal .footer {
-    position: absolute;
-    right: center;
-    bottom: 10px;
+    font-size: small;
+    position: fixed;
+    bottom: 0px;
+    align-content: center;
     line-height: 1;
-    padding: 5px;
+    padding: 15px;
+  }
+  
+  #photo-credit {
+    font-size: 50%;
+    position: fixed;
+    bottom: 0px;
+    line-height: 1;
+    padding: 15px;
+    z-index: 10;
+}
+  
+
+  h1.title {
+  }
+  
+  .line {
+    background: #d33682;
+  }
+  
+  img.logo {
+    max-width: 50%; /* Ensures the image scales down responsively */
+    width: 100px;
+    padding: 0px;
+    height: auto;    /* Maintains aspect ratio */
+    object-fit: contain; /* Ensures the entire image is shown within the given space */
+  }
+  
+  .subtitle {
+    font-size: larger;
+  }
+  
+  .author.institute {
+  }
+    
+  .date {
+    font-size: 65%;
+  }
+  
+  .footnotes {
+    font-size: 50%;
+  }
+  
+  .highlight {
+    background: #d33682;
+    color: white;
+    padding: 5px 10px;
   }
   
   .border {
@@ -95,21 +115,4 @@
   .bottom {
     position: fixed;
     bottom: 0px;
-  }
-  
-  .rotate-right {
-     
-    /* Adjust the angle as needed */
-     
-      transform: rotate(5deg);
-      margin-top: 100px;
-  }
-  
-  
-  .rotate-left {
-     
-    /* Adjust the angle as needed */
-     
-      transform: rotate(-5deg);
-      margin-top: 100px;
   }
