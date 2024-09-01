@@ -2,7 +2,7 @@
 title: Wissensaustausch im Wandel
 subtitle: Wiki für die Bücherei Nofels
 author: Elisabeth Getzner
-institute: <img src=figures/bvoe_logo.svg/>
+institute: <img src="figures/bvoe_logo.svg"/>
 date: September 2024
 keywords:
 - Wissensmanagement
@@ -17,21 +17,14 @@ theme: moon
 margin: 0.2
 slideNumber: \'c/t\'
 slideNumber: true
-photoCredit: © Verena Knöpfle
+photoCredit: © 2024 | Verena Knöpfle
 title-slide-attributes:
     data-background-image: figures/fotos/bib_magazines.png
     data-background-size: stretch
     data-background-opacity: 0.1
 ---
 
-# Bilder {data-visibility=hidden}
-
-![Colourful Books](figures/books-8660361.svg)
-
-Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8660361">rui line</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8660361">Pixabay</a>
-
-
-# Ausgangslage {background-image="figures/fotos/bib_outside.png" background-opacity=0.1}
+# Ausgangslage {background-image="figures/fotos/bib_outside.png" background-opacity=0.1 background-credit="© 2024 | Verena Knöpfle"}
 
 ## Unser Team 
 - Kleine Stadtteilbücherei
@@ -83,15 +76,6 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 :::
 
 
-## Probleme {auto-animate=true visibility=hidden}
-
-<ol>
-<li>Nicht jede:r hat den selben Wissensstand</li>
-<li>Informationen schwer zugänglich</li>
-<li>Information nicht nachvollziehbar</li>
-</ol>
-
-
 ## Ziel des Projekts {auto-animate=true}
 
 <ol>
@@ -134,15 +118,15 @@ Image by <a href="https://pixabay.com/users/rui_libe-20958821/?utm_source=link-a
 - Können Inhalte "verloren" gehen?
 :::
 
-# Ich hab's! {background-image="figures/wickie-stars.gif"}
+# Ich hab's! {background-image="figures/wickie-stars.gif" background-credit="© 1974 | Wickie und die starken Männer"}
 
 <span class="highlight">
 Ein Wi(c)ki(e) für die Bücherei Nofels
 </span>
 
-## Was ist ein Wiki?  {background-image="figures/Wikipedia-logo-v2.svg" background-opacity=0.1}
+## Was ist ein Wiki?  {background-image="figures/Wikipedia-logo-v2.svg" background-opacity=0.1 background-credit="🅭 BY-SA 3.0 2022 | Wikimedia Commons"}
 
-> Website, deren Inhalt von Besucher:innen nicht nur _gelesen_ sondern auch _verändert_ werden kann \todo{CITATION}
+> Website, deren Inhalt von Besucher:innen nicht nur _gelesen_ sondern auch _verändert_ werden kann - Wikipedia
 
 Beispiele
 : 
@@ -160,7 +144,7 @@ Beispiele
 
 ![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence)](figures/confluence-review.png){width=50%}
 
-# Projektplanung {background-image="figures/fotos/bib_wall_of_books.png" background-opacity=0.1}
+# Projektplanung {background-image="figures/fotos/bib_wall_of_books.png" background-opacity=0.1 background-credit="© 2024 | Verena Knöpfle"}
 
 ## Leitfragen
 
@@ -202,7 +186,7 @@ Beispiele
 
 ![Ideen für Wiki-Inhalte](figures/mindmap_content_white_background.png){width=80%}
 
-# Technische Umsetzung {background-image=figures/fotos/bib_computer.png background-opacity=0.2}
+# Technische Umsetzung {background-image=figures/fotos/bib_computer.png background-opacity=0.2 background-credit="© 2024 | Verena Knöpfle"}
 
 ## Technische Landschaft
 
@@ -298,7 +282,7 @@ Bearbeiten mit Vorlage für Sitzungsprotokoll
 
 :::
 
-# Reflexion {background-image="figures/fotos/bib_doors.jpg" background-opacity=0.1}
+# Reflexion {background-image="figures/fotos/bib_doors.jpg" background-opacity=0.1 background-credit="© 2024 | Verena Knöpfle"}
 
 ## Beantwortung der Leitfragen
 
@@ -365,7 +349,18 @@ wichtig ist, sich über die vorhandene und fehlende Dokumentation Gedanken zu ma
 
 :::
 
-# Vielen Dank! {background-image="figures/thats-all.gif" background-opacity=0.5}
+# Vielen Dank! {background-image="figures/thats-all.gif" background-opacity=0.5 background-credit="© Looney Tunes"}
+
+
+## Quellen
+- Definition Wiki auf [Wikipedia](https://de.wikipedia.org/wiki/Wiki)
+
+### Fotos
+- [Verena Knöpfle](https://frauknoepfle.com/) für die Büchereien Feldkirch, 2024
+- Wikipedia Logo von [Nohat](https://meta.wikimedia.org/wiki/User:Nohat); Wikimedia, 2010
+- Reaction GIFs:
+    - Wiki Stars GIF über [tenor](https://tenor.com/view/wickie-stars-vicky-the-viking-pinch-nose-ah-i-know-gif-14995956), 2024
+    - That's all Folks GIF über [tenor](https://tenor.com/view/hahaha-thats-all-folks-looney-tunes-the-end-gif-5945155), 2024
 
 ## Tipps {visibility=uncounted}
 - technischer Hintergrund ist hilfreich, aber nicht zwingend notwendig

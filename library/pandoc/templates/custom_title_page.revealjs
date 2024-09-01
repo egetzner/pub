@@ -343,18 +343,23 @@ $endif$
       const currentSlide = event.currentSlide;
       const photoCredit = document.getElementById('photo-credit');
 
-    // Check if the current slide has a background image
-    if (currentSlide.hasAttribute('data-background-image')) {
-        const backgroundImage = currentSlide.getAttribute('data-background-image');
-        
-        // Check if the background image path contains the word "fotos"
-        if (backgroundImage.includes('fotos')) {
-            photoCredit.style.display = 'block';  // Show the photo credit
-        } else {
-            photoCredit.style.display = 'none';   // Hide the photo credit
-        }
+    if (currentSlide.hasAttribute('data-background-credit')) {
+        const backgroundCredit = currentSlide.getAttribute('data-background-credit');
+        photoCredit.textContent = backgroundCredit;
+        photoCredit.style.display = 'block';  // Show the photo credit
     } else {
-        photoCredit.style.display = 'none';   // Hide the photo credit
+      if (currentSlide.hasAttribute('data-background-image')) {
+          const backgroundImage = currentSlide.getAttribute('data-background-image');
+    
+          // Check if the background image path contains the word "fotos"
+          if (backgroundImage.includes('fotos')) {
+              photoCredit.style.display = 'block';  // Show the photo credit
+          } else {
+              photoCredit.style.display = 'none';   // Hide the photo credit
+          }
+      } else {
+          photoCredit.style.display = 'none';   // Hide the photo credit
+      }
     }
   });
     
