@@ -28,16 +28,16 @@ title-slide-attributes:
 
 ## Unser Team 
 - Kleine Stadtteilbücherei
-- 15 ehrenamtliche Mitarbeiterinnen
-- 1-2 Personen pro Dienst
+- 15 ehrenamtliche Mitarbeiter:innen
+- Austausch oft in kleineren Gruppen
 - Zuständigkeiten stark verteilt
 
 <!--![Altersverteilung](figures/age_distribution.png)-->
 
 ## Kommunikation & Austausch
-- 🗒️ Handschriftliche Notizen 
-- 💬 WhatsApp-Gruppe
-- ✉️ E-Mail (Protokolle, Veranstaltungen)
+- 🗒️ Notizen (handschriftlich)
+- 💬 WhatsApp-Gruppen
+- ✉️ E-Mails (Protokolle, Veranstaltungen)
 - 👥 Teamsitzungen (alle 3-4 Monate)
 - 🗃️ Anleitungen (gedruckt + digital)
 
@@ -53,16 +53,16 @@ title-slide-attributes:
 <ol>
 <li>Nicht jede:r hat den selben Wissensstand</li>
 <ul>
-<li>schwer, alle Mitglieder zu erreichen</li>
+<li>Erreichbarkeit im Team sehr unterschiedlich</li>
 </ul>
-<li>Informationen schwer zugänglich</li>
+<li>Informationen sind schwer zugänglich</li>
 <ul>
-<li>nur vor Ort</li>
-<li>keine Suche</li>
+<li>Zugang nur vor Ort</li>
+<li>Suche erschwert</li>
 </ul>
-<li>Information nicht nachvollziehbar</li>
+<li>Informationen sind nicht nachvollziehbar</li>
 <ul>
-<li>von wem, seit wann?</li>
+<li>Datum, Autor:in oft unbekannt</li>
 </ul>
 </ol>
 
@@ -83,11 +83,11 @@ title-slide-attributes:
 <ul class="result">
 <li class="fragment fade-left" data-fragment-index="1">Zentrale Anlaufstelle für Fragen & Anleitungen</li>
 </ul>
-<li><span class="fragment semi-fade-out strike" data-fragment-index="2">Informationen schwer zugänglich</span></li>
+<li><span class="fragment semi-fade-out strike" data-fragment-index="2">Informationen sind schwer zugänglich</span></li>
 <ul class="result">
 <li class="fragment fade-left" data-fragment-index="2">Ortsunabhängig & leicht zu durchsuchen</li>
 </ul>
-<li><span class="fragment semi-fade-out strike" data-fragment-index="3">Information nicht nachvollziehbar</span></li>
+<li><span class="fragment semi-fade-out strike" data-fragment-index="3">Informationen sind nicht nachvollziehbar</span></li>
 <ul class="result">
 <li class="fragment fade-left" data-fragment-index="3">Änderungen stets nachvollziehbar</li>
 </ul>
@@ -126,7 +126,7 @@ Ein Wi(c)ki(e) für die Bücherei Nofels
 
 ## Was ist ein Wiki?  {background-image="figures/Wikipedia-logo-v2.svg" background-opacity=0.1 background-credit="🅭 BY-SA 3.0 2022 | Wikimedia Commons"}
 
-> Website, deren Inhalt von Besucher:innen nicht nur _gelesen_ sondern auch _verändert_ werden kann - Wikipedia
+> Website, deren Inhalt von Besucher:innen nicht nur _gelesen_ sondern auch _verändert_ werden kann
 
 Beispiele
 : 
@@ -139,7 +139,7 @@ Beispiele
 
 - Erfahrung & Wissen dokumentieren
   - Zugriff auf bereits existierenden Lösungen
-- Kollaboration: gemeinsames Arbeiten
+- Kollaboratives Arbeiten
   - _Autor:in_ 👤 und _Zeitpunkt_ ⏲ ersichtlich
 
 ![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence)](figures/confluence-review.png){width=50%}
@@ -174,12 +174,11 @@ Beispiele
 
 ## Anforderungen und Erwartungen
 - Einfache Bedienung
-  - übersichtliche Darstellung
-  - benutzerfreundliche Eingabe
+  - Übersichtliche Darstellung
+  - Benutzerfreundliche Eingabe
 - Arbeit von zu Hause aus
 - Benutzerrollen (Schreib- & Leserechte)
-- geringe Kosten 
-- wenig Wartungsaufwand
+- Kosten & Wartungsaufwand möglichst gering
 
 
 ## Ideen für Inhalte {visibility=visible}
@@ -190,16 +189,16 @@ Beispiele
 
 ## Technische Landschaft
 
-- existierende Lösungen finden (z.B. Träger)
+- Existierende Lösungen erwägen (z.B. Träger)
 - Einschränkungen beachten:
   - Hosting (Bereitstellung der Software)
   - Wartung (Updates, Sicherheitskopien, etc.)
-  - zusätzliche Kosten
+  - Budget
 
 ## Entscheidung für ein Wiki {auto-animate=true}
 - Wiki-Systeme mit Anforderungen vergleichen
 - [WikiMatrix](https://www.wikimatrix.org/) vergleicht __82__ Wiki-Lösungen
-  - Zwei einfache freie Wikis:
+  - 2 einfache, freie Wikis:
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -217,19 +216,17 @@ Beispiele
 
 1. Hosting beantragen bzw. installieren
     - Kosten: €5/Monat
-3. Inhalte importieren
-    - sortieren & strukturieren
+3. Inhalte importieren, sortieren und strukturieren
 2. Benutzer anlegen
-    - jede:r hat eigenen Login
-    - individuelle Schreib- & Leserechte
+    - Individuelle Schreib- & Leserechte
 
 # Ergebnisse {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-opacity=0.1 background-size=auto }
 
 ## {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-size=auto}
 
 ::: {.box .right}
-Startseite:
-die wichtigsten Inhalte und Links auch ohne Login sichtbar
+__Startseite__:
+die wichtigsten Inhalte und Links
 :::
 
 ## {background-image="figures/wiki_screenshots/books_important.png" background-size=auto data-transition=fade}
@@ -238,7 +235,7 @@ die wichtigsten Inhalte und Links auch ohne Login sichtbar
 ## {background-image="figures/wiki_screenshots/handbuch_1.png" background-size=auto}
 
 ::: {.box .left}
-Inhaltsangabe & Navigation
+Inhaltsangabe und Navigation
 :::
 
 ## {background-image="figures/wiki_screenshots/bookstack_2024.png" background-size=auto  visibility=hidden}
@@ -257,16 +254,16 @@ Volltextsuche über alle Inhalte
 ## {background-image="figures/wiki_screenshots/edit_protokoll.png" background-size=auto}
 
 ::: {.box .right}
-Bearbeiten mit Vorlage für Sitzungsprotokoll
+Bearbeiten mit Vorlagen
 :::
 
 ## Nachbereitung
 
 - Mitarbeiter:innen __schulen__! 
+   - Einstiegshürde reduzieren
    - Sichtbarkeit erhöhen
-   - Weniger Angst vor Fehlern
 - Rechte und Benutzer pflegen
-- Aktuell halten und verwenden!
+- Fortlaufende Nutzung
 
 ::: notes
 
@@ -287,19 +284,18 @@ Bearbeiten mit Vorlage für Sitzungsprotokoll
 ## Beantwortung der Leitfragen
 
 ## 1. 👓 __Lesen__
-- zentraler, durchsuchbarer Ablageort
-- gesteigerte Wertschätzung der Dokumentation
-- offene Arbeiten identifiziert
+- Inhalte von überall zugänglich und durchsuchbar
+- Wertschätzung der Dokumentation gesteigert
+- Offene Arbeiten identifiziert
 
 ## 2. ✍️ __Bearbeiten__
- - Schulungen 
- - einfaches Bearbeiten
- - Angst vor Fehlern nehmen:
-    - Versionierung: Inhalte wiederherstellbar
-    - "Spielwiese" zum Testen der Eingabe
+- Schulungen als erster Einstiegspunkt
+- Einfaches, Word-ähnliches Bearbeiten
+- "Spielwiese" zum Testen der Eingabe
+- Versionierung: Inhalte wiederherstellbar
 
 ## 3. 🫰 __Nutzen__
- - derzeit: Nutzen > Kosten
+ - Nutzung derzeit als Nachschlagewerk
  - Evaluierung nach 1 Jahr
  - Alternativen: 
    - Bibliothekssoftware
@@ -334,14 +330,15 @@ Bearbeiten mit Vorlage für Sitzungsprotokoll
 - Nutzen muss erklärt und beworben werden
 - Es gibt keine perfekten Lösungen!
 
-## Es muss kein Wiki sein...
+## Es muss kein Wiki sein:
 
 Wichtig ist, sich mit der Dokumentation auseinanderzusetzen!
 
+<!--
 - fehlende Dokumente ergänzen
 - vorhandene Dokumente aktualisieren
 - Wissenslücken schließen
-
+-->
 
 ::: notes
 
@@ -356,9 +353,10 @@ wichtig ist, sich über die vorhandene und fehlende Dokumentation Gedanken zu ma
 - Definition Wiki auf [Wikipedia](https://de.wikipedia.org/wiki/Wiki)
 
 ### Fotos
-- [Verena Knöpfle](https://frauknoepfle.com/) für die Büchereien Feldkirch, 2024
-- Wikipedia Logo von [Nohat](https://meta.wikimedia.org/wiki/User:Nohat); Wikimedia, 2010
-- Reaction GIFs:
+- Hintergrundfotos:
+    - [Verena Knöpfle](https://frauknoepfle.com/) für die Bücherei Nofels, 2024
+    - Wikipedia Logo von [Nohat](https://meta.wikimedia.org/wiki/User:Nohat); Wikimedia, 2010
+- GIFs:
     - Wiki Stars GIF über [tenor](https://tenor.com/view/wickie-stars-vicky-the-viking-pinch-nose-ah-i-know-gif-14995956), 2024
     - That's all Folks GIF über [tenor](https://tenor.com/view/hahaha-thats-all-folks-looney-tunes-the-end-gif-5945155), 2024
 
