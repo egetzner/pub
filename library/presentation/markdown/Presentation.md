@@ -126,7 +126,7 @@ Ein Wi(c)ki(e) für die Bücherei Nofels
 
 ## Was ist ein Wiki?  {background-image="figures/Wikipedia-logo-v2.svg" background-opacity=0.1 background-credit="🅭 BY-SA 3.0 2022 | Wikimedia Commons"}
 
-> Website, deren Inhalt von Besucher:innen nicht nur _gelesen_ sondern auch _verändert_ werden kann
+> Ein Wiki ist eine Website, deren Inhalte von den Besuchern nicht nur gelesen, sondern auch direkt im Webbrowser bearbeitet und geändert werden können. 
 
 Beispiele
 : 
