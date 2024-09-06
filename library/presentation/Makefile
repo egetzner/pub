@@ -2,7 +2,7 @@
 PROJECTNAME = "Projekt_Wiki"
 
 # Define directories
-INPUT = markdown
+INPUT = content
 OUTPUT := output
 MODE = draft # can be draft or final
 
@@ -60,7 +60,7 @@ view_html: slides
 	$(HTMLVIEWER) "index.html" &
 	
 slides: setup
-	pandoc --data-dir="../pandoc" --from markdown+raw_html-markdown_in_html_blocks-native_divs-native_spans -s -t revealjs --template='custom_title_page' -T 📚 --slide-level=2 $(EMBED_RESOURCES) $(TOC_CMD) --css=$(CSS) "$(INPUT)/$(MAINDOCNAME).md" -o "index.html"
+	pandoc --data-dir="../pandoc" --from markdown+citations+raw_html-markdown_in_html_blocks-native_divs-native_spans -s -t revealjs --citeproc --csl "$(INPUT)/din-1505-2.csl" --template='custom_title_page' -T 📚 --slide-level=2 $(EMBED_RESOURCES) $(TOC_CMD) --css=$(CSS) "$(INPUT)/$(MAINDOCNAME).md" -o "index.html"
 
 beamer: setup
 	pandoc -s -t beamer "$(INPUT)/$(MAINDOCNAME).md" -o "$(OUTPUT)/$(MAINDOCNAME).pdf"
