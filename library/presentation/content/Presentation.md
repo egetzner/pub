@@ -86,13 +86,13 @@ link-citations: true
 <ul class="result">
 <li class="fragment fade-left" data-fragment-index="1">Zentrale Anlaufstelle für Fragen & Anleitungen</li>
 </ul>
-<li><span class="fragment semi-fade-out strike" data-fragment-index="2">Informationen sind schwer zugänglich</span></li>
+<li><span class="fragment semi-fade-out strike" data-fragment-index="1">Informationen sind schwer zugänglich</span></li>
 <ul class="result">
-<li class="fragment fade-left" data-fragment-index="2">Ortsunabhängig & leicht zu durchsuchen</li>
+<li class="fragment fade-left" data-fragment-index="1">Ortsunabhängig & leicht zu durchsuchen</li>
 </ul>
-<li><span class="fragment semi-fade-out strike" data-fragment-index="3">Informationen sind nicht nachvollziehbar</span></li>
+<li><span class="fragment semi-fade-out strike" data-fragment-index="1">Informationen sind nicht nachvollziehbar</span></li>
 <ul class="result">
-<li class="fragment fade-left" data-fragment-index="3">Änderungen stets nachvollziehbar</li>
+<li class="fragment fade-left" data-fragment-index="1">Änderungen stets nachvollziehbar</li>
 </ul>
 </ol>
 
