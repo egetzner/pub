@@ -3,6 +3,16 @@
     max-height: 100%;
 }
  
+.smaller {
+  font-size: 80%
+}
+
+ .hanging-indent div.csl-entry {
+  margin-left: 0em;
+  text-indent: 0em;
+   font-size: 70%
+}
+
   ul.result {
   list-style-type: '🢧 ';
   font-weight: bold;
@@ -15,6 +25,10 @@
   figcaption {
     font-size: 65%;
   }
+
+.reveal h4 {
+  margin: 20px 0px 10px 0px;
+}
   
   .reveal .footer {
     font-size: small;

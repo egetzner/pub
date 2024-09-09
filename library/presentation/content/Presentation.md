@@ -21,34 +21,37 @@ photoCredit: © 2024 | Verena Knöpfle
 title-slide-attributes:
     data-background-image: figures/fotos/bib_magazines.png
     data-background-size: stretch
-    data-background-opacity: 0.1
+    data-background-opacity: 0.2
 bibliography: ["content/bibliography.bib"]
 biblio-style: "apalike"
 link-citations: true
 ---
 
-# Ausgangslage {background-image="figures/fotos/bib_outside.png" background-opacity=0.1 background-credit="© 2024 | Verena Knöpfle"}
+# Ausgangslage {background-image="figures/fotos/bib_outside.png" background-opacity=0.3 background-credit="© 2024 | Verena Knöpfle"}
 
-## Unser Team 
-- Kleine Stadtteilbücherei
+## Unser Team
+- kleine Stadtteilbibliothek
 - 15 ehrenamtliche Mitarbeiter:innen
-- Austausch oft in kleineren Gruppen
-- Zuständigkeiten stark verteilt
 
-<!--![Altersverteilung](figures/age_distribution.png)-->
+#### Informationskanäle
+- 🗒️ Notizen
+- 💬 WhatsApp
+- ✉️ E-Mails
+- 👥 Teamsitzungen
+- 🗃️ Anleitungen
 
-## Kommunikation & Austausch
+::: notes
+- Relativ großes Team (15 Personen)
+- Arbeit meist getrennt in kleinen Gruppen (2-3 Personen)
+- Diverse Anleitungen, von denen nicht alle wissen
+
+### Kommunikation & Austausch
 - 🗒️ Notizen (handschriftlich)
 - 💬 WhatsApp-Gruppen
 - ✉️ E-Mails (Protokolle, Veranstaltungen)
 - 👥 Teamsitzungen (alle 3-4 Monate)
 - 🗃️ Anleitungen (gedruckt + digital)
 
-::: notes
-- Relativ großes Team (15 Personen)
-- Arbeit meist getrennt in kleinen Gruppen (2-3 Personen)
-- Kommunikation & Austausch in Teamsitzungen, E-Mail oder Whatsapp
-- Diverse Anleitungen, von denen nicht alle wissen
 :::
 
 ## Probleme {auto-animate=true}
@@ -65,7 +68,7 @@ link-citations: true
 </ul>
 <li>Informationen sind nicht nachvollziehbar</li>
 <ul>
-<li>Datum, Autor:in oft unbekannt</li>
+<li>Datum 📆, Autor:in 👤 oft unbekannt</li>
 </ul>
 </ol>
 
@@ -127,27 +130,33 @@ link-citations: true
 Ein Wi(c)ki(e) für die Bücherei Nofels
 </span>
 
-## Was ist ein Wiki?  {background-image="figures/Wikipedia-logo-v2.svg" background-opacity=0.1 background-credit="🅭 BY-SA 3.0 2022 | Wikimedia Commons"}
-> Ein Wiki ist eine Website, deren Inhalte von den Besuchern nicht nur gelesen, sondern auch direkt im Webbrowser bearbeitet und geändert werden können.
+## Was ist ein Wiki?  {background-image="figures/Wikipedia-logo-v2.svg" background-opacity=0.15 background-credit="🅭 BY-SA 3.0 2022 | Wikimedia Commons"}
+> Ein Wiki ist eine Website, deren Inhalte von den Besuchern nicht nur gelesen, sondern auch direkt im Webbrowser [...] geändert werden können.
 [@wikidef]
 
 Beispiele
 : 
-- Enzyklopädie: [Wikipedia](https://wikipedia.org "Wikipedia")
-- Sachbücher: [WikiBooks](https://de.wikibooks.org/wiki/Hauptseite)
-- Anleitungen: [WikiHow](https://www.wikihow.com/Main-Page)
-- Pop Kultur: [Fandom](https://www.fandom.com/), [TV Tropes](https://tvtropes.org/)
+- [Wikipedia](https://wikipedia.org "Wikipedia")
+- [WikiBooks](https://de.wikibooks.org/wiki/Hauptseite)
+- [WikiHow](https://www.wikihow.com/Main-Page)
+- [Fandom](https://www.fandom.com/), [TV Tropes](https://tvtropes.org/), u.v.m.
 
 ## Wiki in Organisationen
 
+- Erfahrung und Wissen teilen:
+    - kol­la­bo­ra­tiv
+    - transparent
+      - _Autor:in_ 👤 und
+      - _Zeitpunkt_ 📆 der Änderung bekannt
+    
+::: notes
 - Erfahrung & Wissen dokumentieren
   - Zugriff auf bereits existierenden Lösungen
 - Kollaboratives Arbeiten
-  - _Autor:in_ 👤 und _Zeitpunkt_ ⏲ ersichtlich
+- _Autor:in_ 👤 und _Zeitpunkt_ ⏲ aller Änderungen ersichtlich
+:::
 
-![Unternehmenswiki [Confluence](https://www.atlassian.com/de/software/confluence)](figures/confluence-review.png){width=50%}
-
-# Projektplanung {background-image="figures/fotos/bib_wall_of_books.png" background-opacity=0.1 background-credit="© 2024 | Verena Knöpfle"}
+# Projektplanung {background-image="figures/fotos/bib_wall_of_books.png" background-opacity=0.3 background-credit="© 2024 | Verena Knöpfle"}
 
 ## Leitfragen
 
@@ -181,22 +190,24 @@ Beispiele
   - Benutzerfreundliche Eingabe
 - Arbeit von zu Hause aus
 - Benutzerrollen (Schreib- & Leserechte)
-- Kosten & Wartungsaufwand möglichst gering
+- Wartungsaufwand möglichst gering
 
 
 ## Ideen für Inhalte {visibility=visible}
 
 ![Ideen für Wiki-Inhalte](figures/mindmap_content_white_background.png){width=80%}
 
-# Technische Umsetzung {background-image=figures/fotos/bib_computer.png background-opacity=0.2 background-credit="© 2024 | Verena Knöpfle"}
+# Technische Umsetzung {background-image=figures/fotos/bib_computer.png background-opacity=0.3 background-credit="© 2024 | Verena Knöpfle"}
 
 ## Technische Landschaft
 
-- Existierende Lösungen erwägen (z.B. Träger)
+- Existierende Lösungen (z.B. Träger)
 - Einschränkungen beachten:
-  - Hosting (Bereitstellung der Software)
-  - Wartung (Updates, Sicherheitskopien, etc.)
   - Budget
+  - Bereitstellung der Software
+  - Wartung der Software
+    - Updates
+    - Sicherheitskopien
 
 ## Entscheidung für ein Wiki {auto-animate=true}
 - Wiki-Systeme mit Anforderungen vergleichen
@@ -223,7 +234,7 @@ Beispiele
 2. Benutzer anlegen
     - Individuelle Schreib- & Leserechte
 
-# Ergebnisse {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-opacity=0.1 background-size=auto }
+# Ergebnisse {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-opacity=0.3 background-size=auto }
 
 ## {background-image="figures/wiki_screenshots/bookstack_willkommen.png" background-size=auto}
 
@@ -282,27 +293,29 @@ Bearbeiten mit Vorlagen
 
 :::
 
-# Reflexion {background-image="figures/fotos/bib_doors.jpg" background-opacity=0.1 background-credit="© 2024 | Verena Knöpfle"}
+# Reflexion {background-image="figures/fotos/bib_doors.jpg" background-opacity=0.3 background-credit="© 2024 | Verena Knöpfle"}
 
 ## Beantwortung der Leitfragen
 
 ## 1. 👓 __Lesen__
-- Inhalte von überall zugänglich und durchsuchbar
-- Wertschätzung der Dokumentation gesteigert
+Inhalte von überall zugänglich und durchsuchbar
+
 - Offene Arbeiten identifiziert
+- Wertschätzung der Dokumentation gesteigert
 
 ## 2. ✍️ __Bearbeiten__
+Einfaches, Word-ähnliches Bearbeiten
+
 - Schulungen als erster Einstiegspunkt
-- Einfaches, Word-ähnliches Bearbeiten
-- "Spielwiese" zum Testen der Eingabe
 - Versionierung: Inhalte wiederherstellbar
 
 ## 3. 🫰 __Nutzen__
- - Nutzung derzeit als Nachschlagewerk
- - Evaluierung nach 1 Jahr
- - Alternativen: 
-   - Bibliothekssoftware
-   - Office Suite
+Nutzung derzeit als Nachschlagewerk
+
+- Evaluierung nach 1 Jahr
+- Alternativen: 
+  - Bibliothekssoftware
+  - Office Suite
    
 ::: notes
 ### 👓 Lesen
@@ -316,6 +329,7 @@ Bearbeiten mit Vorlagen
   - Schulungen essentiell
   - Historie: alte Versionen wieder herstellbar
     - Angst vor Fehlern nehmen
+- "Spielwiese" zum Testen der Eingabe
 
 ### 🫰 __Nutzen__
   - derzeit: Nutzen übersteigt Kosten
@@ -327,11 +341,18 @@ Bearbeiten mit Vorlagen
 
 :::
 
-
 ## Das habe ich gelernt
+- Team miteinbeziehen:
+  - Inhalte & Anforderungen
+  - Nutzen erklären & bewerben
+- Es gibt keine perfekten Lösungen!
+
+::: notes
 - Inhalte & Anforderungen kommen vom Team
 - Nutzen muss erklärt und beworben werden
-- Es gibt keine perfekten Lösungen!
+- früher starten
+- nicht auf perfekte Lösungen warten
+:::
 
 ## Es muss kein Wiki sein:
 
@@ -387,10 +408,13 @@ wichtig ist, sich über die vorhandene und fehlende Dokumentation Gedanken zu ma
 ---
 
 ## Quellen
-### Hintergrundbilder
+#### Hintergrundbilder
+
+::: {.smaller}
 - [Verena Knöpfle](https://frauknoepfle.com/) für die Bücherei Nofels, 2024
 - Wikipedia Logo von [Nohat](https://meta.wikimedia.org/wiki/User:Nohat); Wikimedia, 2010
 - Wiki Stars GIF über [tenor](https://tenor.com/view/wickie-stars-vicky-the-viking-pinch-nose-ah-i-know-gif-14995956), 2024
 - That's all Folks GIF über [tenor](https://tenor.com/view/hahaha-thats-all-folks-looney-tunes-the-end-gif-5945155), 2024
+:::
 
-### Zitate
+#### Zitate
